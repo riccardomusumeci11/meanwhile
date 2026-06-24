@@ -55,12 +55,14 @@ WRAPPER_BLOCK = f"""
 # Launch Claude Code inside tmux so the news pane can split in beside it.
 # No-op if already in tmux or non-interactive (avoids recursion).
 # Each launch gets its own uniquely-named session (cc-<pid>) so multiple Claude
-# Code sessions run independently, each with its own news panel.
+# Code sessions run independently, each with its own news panel. Mouse is enabled
+# on the session so scrolling up scrolls the chat (tmux copy-mode) instead of being
+# sent to Claude Code as Up and cycling through previous prompts.
 claude() {{
   if [ -n "$TMUX" ] || [ ! -t 1 ]; then
     command claude "$@"
   else
-    tmux new-session -s "cc-$$" "command claude $*"
+    tmux new-session -s "cc-$$" "command claude $*" \\; set -t "cc-$$" mouse on
   fi
 }}
 # <<< cc-learn-banner <<<
