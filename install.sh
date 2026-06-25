@@ -54,7 +54,11 @@ fi
 # --- clone or update ------------------------------------------------------
 if [ -d "$DIR/.git" ]; then
   echo "Updating existing clone at $DIR …"
-  git -C "$DIR" pull --ff-only
+  # Sync hard to latest main: resilient to force-pushed / rewritten history (a
+  # plain pull --ff-only fails on divergence). Tracked files only — the gitignored
+  # cache and your saved items are left untouched.
+  git -C "$DIR" fetch --depth 1 origin main
+  git -C "$DIR" reset --hard FETCH_HEAD
 else
   echo "Cloning into $DIR …"
   git clone --depth 1 "$REPO" "$DIR"
