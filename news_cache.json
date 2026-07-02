@@ -1,0 +1,1321 @@
+{
+ "generated_at": 1782984185,
+ "generated_date": "2026-07-02",
+ "n_items": 262,
+ "n_sources_ok": 32,
+ "clusters": [
+  {
+   "headline": "Introducing Claude Sonnet 5 on AWS: Anthropic’s most capable Sonnet model",
+   "latest": "2026-06-30",
+   "n_sources": 3,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Introducing Claude Sonnet 5 on AWS: Anthropic’s most capable Sonnet model",
+     "source": "Artificial Intelligence",
+     "date": "2026-06-30",
+     "extract": "Today, we’re excited to announce the availability of Anthropic’s most advanced Sonnet model, Claude Sonnet 5, on Amazon Bedrock and Claude Platform on AWS. Claude Sonnet 5 is the first Sonnet model of Anthropic’s latest generation and represents a meaningful step forward. It delivers top-tier intelligence at Sonnet pricing for coding, agents, and everyday professional",
+     "note": "",
+     "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model/",
+     "kind": "news"
+    },
+    {
+     "title": "Anthropic's new Claude Sonnet 5 closes the gap to Opus model series",
+     "source": "The Decoder",
+     "date": "2026-06-30",
+     "extract": "Anthropic released Claude Sonnet 5, which beats its predecessor Sonnet 4.6 across all benchmarks and even edges past the larger Opus 4.8 on the GDPval-AA v2 knowledge work test with a score of 1,618. Anthropic is also quick to point out that the model scores far below the models the US government currently has blocked when it comes to cybersecurity tasks, a likely deliberate signal given the ongoing debate.",
+     "note": "",
+     "url": "https://the-decoder.com/anthropics-new-claude-sonnet-5-closes-the-gap-to-the-pricier-opus-model-series/",
+     "kind": "news"
+    },
+    {
+     "title": "What's new in Claude Sonnet 5",
+     "source": "Simon Willison's Weblog",
+     "date": "2026-06-30",
+     "extract": "",
+     "note": "",
+     "url": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything",
+     "kind": "news"
+    }
+   ],
+   "score": 0.8357,
+   "summary": "Anthropic has launched Claude Sonnet 5, its most advanced Sonnet model, on Amazon Bedrock and the Claude Platform on AWS. As the first release from the company's latest generation, the model provides high-level intelligence for coding, agentic tasks, and professional workflows. Users can access these capabilities at standard Sonnet pricing tiers.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Introducing GeneBench-Pro",
+   "latest": "2026-06-30",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Introducing GeneBench-Pro",
+     "source": "OpenAI News",
+     "date": "2026-06-30",
+     "extract": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+     "note": "",
+     "url": "https://openai.com/index/introducing-genebench-pro",
+     "kind": "news"
+    }
+   ],
+   "score": 0.8217,
+   "summary": "GeneBench-Pro has been introduced as a new benchmark designed to evaluate AI performance within the fields of genomics, biology, and scientific research. The tool utilizes complex, real-world datasets to conduct its testing. This platform aims to assess how artificial intelligence models handle specialized scientific tasks.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "HP Inc. launches Frontier strategic partnership with OpenAI",
+   "latest": "2026-06-28",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+     "source": "OpenAI News",
+     "date": "2026-06-28",
+     "extract": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+     "note": "",
+     "url": "https://openai.com/index/hp-frontier-partnership",
+     "kind": "news"
+    }
+   ],
+   "score": 0.8083,
+   "summary": "HP Inc. has launched a strategic partnership with OpenAI titled Frontier. This collaboration aims to integrate artificial intelligence across the company's enterprise operations, software development processes, and customer experiences. HP Inc. is scaling this initiative to implement the technology throughout these specific business areas.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+   "latest": "2026-07-01",
+   "n_sources": 2,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+     "source": "AI News & Artificial Intelligence",
+     "date": "2026-07-01",
+     "extract": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
+     "note": "",
+     "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+     "kind": "news"
+    },
+    {
+     "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
+     "source": "Feed: Artificial Intelligence Latest",
+     "date": "2026-06-30",
+     "extract": "The White House is easing restrictions on Anthropic’s most advanced AI models weeks after ordering the company to suspend access for foreign nationals.",
+     "note": "",
+     "url": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
+     "kind": "news"
+    },
+    {
+     "title": "Trump Administration Allows Anthropic to Release Mythos to Select US Organizations",
+     "source": "Feed: Artificial Intelligence Latest",
+     "date": "2026-06-27",
+     "extract": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
+     "note": "",
+     "url": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.7873,
+   "summary": "The Trump administration has removed restrictions on Anthropic’s Mythos and Fable models. This decision follows a period of uncertainty caused by the administration's inconsistent approach to AI policymaking. Industry companies currently lack clarity regarding the regulations that will govern future model releases.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+   "latest": "2026-06-24",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+     "source": "OpenAI News",
+     "date": "2026-06-24",
+     "extract": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+     "note": "",
+     "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+     "kind": "news"
+    }
+   ],
+   "score": 0.7817,
+   "summary": "OpenAI and Broadcom have announced the development of Jalapeño, a custom AI chip specifically engineered for large language model (LLM) inference. This new hardware is designed to enhance performance, efficiency, and scalability across the companies' AI systems. The collaboration aims to optimize the infrastructure required to support complex AI workloads.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Anthropic launches Claude Science, an AI workspace built specifically for researchers",
+   "latest": "2026-06-30",
+   "n_sources": 2,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Anthropic launches Claude Science, an AI workspace built specifically for researchers",
+     "source": "The Decoder",
+     "date": "2026-06-30",
+     "extract": "Anthropic released Claude Science, an AI workbench for researchers. More than 60 preconfigured skills cover fields like genomics and computational chemistry, and a verification agent automatically checks citations and calculations. The app runs locally or on HPC clusters, so sensitive data never has to leave a lab's own infrastructure.",
+     "note": "",
+     "url": "https://the-decoder.com/anthropic-launches-claude-science-an-ai-workspace-built-specifically-for-researchers/",
+     "kind": "news"
+    },
+    {
+     "title": "Claude Science is Anthropic’s newest flagship product",
+     "source": "MIT Technology Review",
+     "date": "2026-06-30",
+     "extract": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access…",
+     "note": "",
+     "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.7807,
+   "summary": "Anthropic has introduced Claude Science, an AI-powered workbench designed specifically for the research community. The platform includes over 60 preconfigured skills tailored for disciplines such as computational chemistry and genomics. A built-in verification agent automatically validates all calculations and citations within the workspace. To ensure data security, the application operates locally or on high-performance computing (HPC) clusters, keeping sensitive information within a lab's own infrastructure.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "OpenAI's genomics paper accidentally reveals a Pro lineup it hasn't announced yet",
+   "latest": "2026-07-01",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "OpenAI's genomics paper accidentally reveals a Pro lineup it hasn't announced yet",
+     "source": "The Decoder",
+     "date": "2026-07-01",
+     "extract": "An OpenAI benchmark paper suggests that the Pro tier of GPT-5.6 could ship in three variants. That would be the first major change to ChatGPT Pro's structure since the plan launched.",
+     "note": "",
+     "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.7323,
+   "summary": "A recent OpenAI benchmark paper has inadvertently disclosed an unannounced Pro lineup for the company's AI services. The document suggests that the Pro tier of GPT-5.6 will be released in three distinct variants. This development represents the first significant structural modification to the ChatGPT Pro plan since its initial launch.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Anthropic's Fable 5 is back worldwide after a two-week government ban over a jailbreak",
+   "latest": "2026-07-01",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Anthropic's Fable 5 is back worldwide after a two-week government ban over a jailbreak",
+     "source": "The Decoder",
+     "date": "2026-07-01",
+     "extract": "After a two-week ban, the US government is letting Anthropic ship Fable 5 globally again. Amazon researchers had found a jailbreak, but Anthropic says even much smaller models like Claude Haiku 4.5 could pull off the same exploit. A new safety classifier blocks the technique in over 99 percent of cases, though it also flags more harmless requests in the process.",
+     "note": "",
+     "url": "https://the-decoder.com/anthropics-fable-5-is-back-worldwide-after-a-two-week-government-ban-over-a-jailbreak/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.7323,
+   "summary": "Anthropic has resumed the global distribution of its Fable 5 model following a two-week ban imposed by the United States government. The suspension originated after Amazon researchers identified a jailbreak vulnerability that Anthropic claims is also present in smaller models such as Claude Haiku 4.5. To address this, the company implemented a new safety classifier that successfully blocks the exploit in over 99 percent of instances. This mitigation measure has resulted in a higher rate of false positives, causing the system to flag harmless user requests.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+   "latest": "2026-07-01",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+     "source": "AI News & Artificial Intelligence",
+     "date": "2026-07-01",
+     "extract": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
+     "note": "",
+     "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.7323,
+   "summary": "Ashton Kutcher is departing Sound Ventures to establish a new venture capital firm alongside Morgan Beller. While Sound Ventures focused on concentrated, high-conviction investments in category-leading AI labs, Kutcher’s upcoming fund will target the infrastructure and energy sectors that power those companies. This shift marks a move toward the foundational layer supporting the broader artificial intelligence industry.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+   "latest": "2026-07-01",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+     "source": "AI News & Artificial Intelligence",
+     "date": "2026-07-01",
+     "extract": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
+     "note": "",
+     "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.7323,
+   "summary": "Google has released its 24/7 agentic assistant, Gemini Spark, for Mac users. This launch includes additional functional updates such as real-time tracking capabilities. Furthermore, the assistant now provides support for a broader range of applications.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Wayve launches $85M employee tender offer at $8.5B valuation",
+   "latest": "2026-07-01",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+     "source": "AI News & Artificial Intelligence",
+     "date": "2026-07-01",
+     "extract": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
+     "note": "",
+     "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.7323,
+   "summary": "Wayve has initiated an $85 million employee tender offer that values the company at $8.5 billion. This financial move is part of an increasing trend among AI startups that utilize employee tenders as a strategic method to attract and retain talent.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Elon Musk denies a report about SpaceX’s AI phone prototype",
+   "latest": "2026-07-01",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Elon Musk denies a report about SpaceX’s AI phone prototype",
+     "source": "The Verge",
+     "date": "2026-07-01",
+     "extract": "Elon Musk says a report about a SpaceX AI phone prototype is \"utterly false.\" The report, published on Wednesday by The Wall Street Journal, says SpaceX showed off a \"handset-like prototype\" to some investors before launching its record-breaking initial public offering in June. The device was \"slimmer than an iPhone,\" and they were told it",
+     "note": "",
+     "url": "https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk",
+     "kind": "news"
+    }
+   ],
+   "score": 0.7323,
+   "summary": "Elon Musk has publicly refuted a Wall Street Journal report claiming that SpaceX developed an AI-powered phone prototype. The report, published on Wednesday, alleged that SpaceX showcased a handset-like device to investors prior to the company's record-breaking initial public offering in June. According to the article, the prototype was described as being slimmer than an iPhone. Musk characterized the entire report as \"utterly false.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "The best Switch 2 case I’ve tried is cheaper than usual",
+   "latest": "2026-07-01",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "The best Switch 2 case I’ve tried is cheaper than usual",
+     "source": "The Verge",
+     "date": "2026-07-01",
+     "extract": "Dbrand apparently knows how to really whiff a product launch, as we recently saw with the Steam Machine Companion Cube shell. But it also makes the best case out there for the Nintendo Switch 2, which happens to be discounted right now. The Killswitch 2 is versatile, with better build quality than other similar models,",
+     "note": "",
+     "url": "https://www.theverge.com/gadgets/960185/dbrand-killswitch-switch-2-deal-sale",
+     "kind": "news"
+    }
+   ],
+   "score": 0.7323,
+   "summary": "Dbrand is currently offering a discount on its Killswitch 2, which is a case designed for the Nintendo Switch 2. The product is noted for its versatile design and superior build quality compared to similar models on the market. This release follows the company's recent Steam Machine Companion Cube shell launch.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Safely Releasing Frontier Models to Customers",
+   "latest": "2026-07-01",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Safely Releasing Frontier Models to Customers",
+     "source": "Artificial Intelligence",
+     "date": "2026-07-01",
+     "extract": "It’s our goal for AWS to be the most secure place to run any workload, and in support of that we’ve been deeply investing in security across our services since AWS's inception more than two decades ago. Our AI services like Amazon Bedrock are built on this foundation and with the same focus.",
+     "note": "",
+     "url": "https://aws.amazon.com/blogs/machine-learning/safely-releasing-frontier-models-to-customers/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.7083,
+   "summary": "Amazon is emphasizing its commitment to security for AI services like Amazon Bedrock as part of its goal to provide a secure environment for all workloads. The company is building these AI offerings on a security foundation developed over more than two decades of AWS operations. This initiative aims to ensure that customers can safely deploy frontier models within the AWS ecosystem.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Announcing our $800M Series C to accelerate the shift to open-source AI",
+   "latest": "2026-07-01",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Announcing our $800M Series C to accelerate the shift to open-source AI",
+     "source": "Together.ai",
+     "date": "2026-07-01",
+     "extract": "We raised $800M to accelerate the shift to open-source AI. Here's why the economics of closed models don't scale, and what we're building next.",
+     "note": "",
+     "url": "https://www.together.ai/blog/announcing-our-series-c",
+     "kind": "news"
+    }
+   ],
+   "score": 0.7083,
+   "summary": "The company has secured $800 million in Series C funding to advance the transition toward open-source artificial intelligence. This capital will be used to support the development of future projects. The organization stated that it is pursuing this initiative because it believes the economics of closed-source models are not scalable.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "shot-scraper 1.10",
+   "latest": "2026-06-30",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.4,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "shot-scraper 1.10",
+     "source": "Simon Willison's Weblog",
+     "date": "2026-06-30",
+     "extract": "Release: shot-scraper 1.10 The big new feature is shot-scraper video storyboard.yml , described in detail in Have your agent record video demos of its work with shot-scraper video . Tags: shot-scraper",
+     "note": "",
+     "url": "https://simonwillison.net/2026/Jun/30/shot-scraper/#atom-everything",
+     "kind": "news"
+    }
+   ],
+   "score": 0.6777,
+   "summary": "The shot-scraper 1.10 update has been released. This version introduces a new feature called shot-scraper video storyboard.yml. Detailed instructions for this tool are available in the documentation titled \"Have your agent record video demos of its work with shot-scraper video.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Vibe gets to work.",
+   "latest": "2026-05-28",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Vibe gets to work.",
+     "source": "Mistral AI Blog",
+     "date": "2026-05-28",
+     "extract": "The unified agent for long-horizon productivity and coding, launching with Work and Code modes. Plus, a new Vibe VS Code extension.",
+     "note": "",
+     "url": "https://mistral.ai/news/vibe-agent/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.635,
+   "summary": "Vibe has launched as a unified agent designed for long-horizon productivity and coding tasks. The platform features two distinct operational settings known as Work mode and Code mode. Additionally, the release includes a new dedicated Vibe extension for VS Code.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Introducing physics AI at Mistral: the foundation for engineering acceleration.",
+   "latest": "2026-05-27",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Introducing physics AI at Mistral: the foundation for engineering acceleration.",
+     "source": "Mistral AI Blog",
+     "date": "2026-05-27",
+     "extract": "A new class of AI models that predict the behavior of physical systems, powering the engineers and hardware products of tomorrow.",
+     "note": "",
+     "url": "https://mistral.ai/news/introducing-physics-ai-at-mistral/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.635,
+   "summary": "Mistral has introduced a new class of physics AI models designed to predict the behavior of physical systems. These models are intended to serve as a foundation for accelerating engineering processes. The technology aims to support the development of future hardware products and the engineers who create them.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+   "latest": "2026-06-30",
+   "n_sources": 3,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+     "source": "Google DeepMind News",
+     "date": "2026-06-30",
+     "extract": "",
+     "note": "",
+     "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+     "kind": "news"
+    },
+    {
+     "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
+     "source": "AI",
+     "date": "2026-06-30",
+     "extract": "They may not look as good, but Nano Banana 2 Lite images only take a few seconds to create.",
+     "note": "",
+     "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
+     "kind": "news"
+    },
+    {
+     "title": "Nano Banana 2 Lite",
+     "source": "Simon Willison's Weblog",
+     "date": "2026-06-30",
+     "extract": "Nano Banana 2 Lite Also known as Gemini 3.1 Flash Lite Image ( gemini-3.1-flash-lite-image in their API ), this is the \"fastest and cheapest Gemini image model, engineered for velocity and scale\". I used AI studio to run this prompt: Do a where's Waldo style image but it's where is the raccoon holding a ham radio I like that one better than the results I got from the other Nano Banana models when I tried this back in April. It spelled Forest Festival wrong in two different ways though. Via Hacker News Tags: google , ai , generative-ai , llms , gemini , text-to-image , llm-release , nano-banana",
+     "note": "",
+     "url": "https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything",
+     "kind": "news"
+    }
+   ],
+   "score": 0.5917,
+   "summary": "Google has released Nano Banana 2 Lite, also identified as the Gemini 3.1 Flash Lite Image model (gemini-3.1-flash-lite-image) in its API. Marketed as the company's fastest and cheapest image model, it is designed specifically for velocity and scale. A user testing the model via AI Studio noted that it produced superior results for a \"Where's Waldo\" style prompt compared to previous Nano Banana models tested in April. However, the model did exhibit errors in spelling \"Forest Festival\" in two different ways during that same test.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+   "latest": "2026-05-19",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+     "source": "AI",
+     "date": "2026-05-19",
+     "extract": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm. At its annual I/O developer conference , Google announced a sweeping redesign of the search box itself — the literal text field where billions of queries begin every day — transforming it from a simple keyword input into a dynamic, AI-driven conversation starter that can accept text, images, PDFs, videos, and even open Chrome tabs as inputs.",
+     "note": "",
+     "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+     "kind": "news"
+    }
+   ],
+   "score": 0.539,
+   "summary": "Google is redesigning its search box for the first time in 25 years, moving away from the traditional text-only input field. Announced Tuesday at the annual I/O developer conference, the new interface functions as an AI-driven conversation starter rather than a simple keyword entry point. Users can now input a variety of media into the search box, including images, videos, PDFs, and open Chrome tabs. This change formally retires the long-standing paradigm of a thin white rectangle that produces a list of blue links.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Data Formulator 0.7: AI-powered data analytics for enterprise data",
+   "latest": "2026-05-28",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Data Formulator 0.7: AI-powered data analytics for enterprise data",
+     "source": "Microsoft Research",
+     "date": "2026-05-28",
+     "extract": "Data Formulator introduces AI-powered analytics for enterprise data workflows. Data teams can easily bring enterprise data into an AI-ready workspace where users can explore, analyze, and visualize data with AI agents to turn raw data into actionable insights.",
+     "note": "",
+     "url": "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.515,
+   "summary": "Data Formulator 0.7 has launched to provide AI-powered data analytics specifically designed for enterprise data workflows. The platform offers an AI-ready workspace where data teams can import enterprise information for exploration, analysis, and visualization. Users utilize AI agents within this environment to transform raw data into actionable insights.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Together AI and Pearl Research Labs Team Up to Reduce the Cost of AI Inference",
+   "latest": "2026-05-15",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Together AI and Pearl Research Labs Team Up to Reduce the Cost of AI Inference",
+     "source": "Together.ai",
+     "date": "2026-05-15",
+     "extract": "Together AI partners with Pearl Research Labs to launch a discounted Pearl-powered inference endpoint for Gemma-4-31B-it-pearl, using Proof of Useful Work to turn AI workloads into crypto emissions.",
+     "note": "",
+     "url": "https://www.together.ai/blog/together-ai-partners-with-pearl-research-labs",
+     "kind": "news"
+    }
+   ],
+   "score": 0.515,
+   "summary": "Together AI has partnered with Pearl Research Labs to lower AI inference costs by launching a discounted endpoint for the Gemma-4-31B-it-pearl model. This collaboration utilizes Proof of Useful Work technology to convert standard AI processing tasks into crypto emissions. The new infrastructure is designed to reduce the financial requirements for running this specific model version.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Introducing voice finder — a new tool to quickly find the right voice for your app from over 600+ voices",
+   "latest": "2026-05-12",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Introducing voice finder — a new tool to quickly find the right voice for your app from over 600+ voices",
+     "source": "Together.ai",
+     "date": "2026-05-12",
+     "extract": "Voice finder helps developers search, match, filter, and audition 600+ voices across Together AI TTS models using natural-language prompts or uploaded audio samples.",
+     "note": "",
+     "url": "https://www.together.ai/blog/introducing-voice-finder-a-new-tool-to-quickly-find-the-right-voice-for-your-app-from-over-600-voices",
+     "kind": "news"
+    }
+   ],
+   "score": 0.515,
+   "summary": "Together AI has launched Voice finder, a new tool that allows developers to search, match, filter, and audition more than 600 voices for their applications. Users can locate specific voices across the company's text-to-speech models by utilizing natural-language prompts. Additionally, the tool supports the use of uploaded audio samples to help identify the most suitable voice options.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "How ChatGPT adoption has expanded",
+   "latest": "2026-06-30",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "How ChatGPT adoption has expanded",
+     "source": "OpenAI News",
+     "date": "2026-06-30",
+     "extract": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+     "note": "",
+     "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+     "kind": "news"
+    }
+   ],
+   "score": 0.4817,
+   "summary": "OpenAI Signals data indicates that ChatGPT adoption is expanding globally. The report shows that users are increasing their frequency of use and exploring a wider range of the platform's capabilities. This growth is occurring across various international regions and multiple languages.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Core dump epidemiology: fixing an 18-year-old bug",
+   "latest": "2026-06-30",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Core dump epidemiology: fixing an 18-year-old bug",
+     "source": "OpenAI News",
+     "date": "2026-06-30",
+     "extract": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+     "note": "",
+     "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+     "kind": "news"
+    }
+   ],
+   "score": 0.4817,
+   "summary": "OpenAI engineers have resolved an 18-year-old software bug by utilizing large-scale core dump analysis to investigate rare infrastructure crashes. This diagnostic process successfully identified both a hardware fault and the long-standing software defect. The team employed this method to isolate and address the underlying causes of the system instability.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Mapping Europe’s AI Workforce Opportunity",
+   "latest": "2026-06-29",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Mapping Europe’s AI Workforce Opportunity",
+     "source": "OpenAI News",
+     "date": "2026-06-29",
+     "extract": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+     "note": "",
+     "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+     "kind": "news"
+    }
+   ],
+   "score": 0.475,
+   "summary": "OpenAI has released a new report detailing how artificial intelligence is positioned to transform the labor market across the European Union. The study identifies specific occupations that are likely to experience shifts in workflow, potential growth, or exposure to automation. This mapping provides a comprehensive overview of how AI integration will influence the future of the EU workforce.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Previewing GPT-5.6 Sol: a next-generation model",
+   "latest": "2026-06-26",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Previewing GPT-5.6 Sol: a next-generation model",
+     "source": "OpenAI News",
+     "date": "2026-06-26",
+     "extract": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+     "note": "",
+     "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+     "kind": "news"
+    }
+   ],
+   "score": 0.455,
+   "summary": "OpenAI has introduced a preview of its next-generation model, GPT-5.6 Sol. This new iteration features enhanced performance across the domains of coding, science, and cybersecurity. The model is also integrated with the company's most advanced safety stack to date.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "How agents are transforming work",
+   "latest": "2026-06-25",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "How agents are transforming work",
+     "source": "OpenAI News",
+     "date": "2026-06-25",
+     "extract": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+     "note": "",
+     "url": "https://openai.com/index/how-agents-are-transforming-work",
+     "kind": "news"
+    }
+   ],
+   "score": 0.4483,
+   "summary": "A new OpenAI research paper details how AI agents are transforming work by enabling the completion of longer and more complex tasks. These agents are expanding productivity across a variety of professional roles. The findings highlight the evolving capabilities of AI in managing multifaceted workflows.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Helping build shared standards for advanced AI",
+   "latest": "2026-06-23",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Helping build shared standards for advanced AI",
+     "source": "OpenAI News",
+     "date": "2026-06-23",
+     "extract": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+     "note": "",
+     "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+     "kind": "news"
+    }
+   ],
+   "score": 0.435,
+   "summary": "OpenAI is contributing to the development of shared standards for advanced artificial intelligence by collaborating with the Appia Foundation. This initiative focuses on establishing global cooperation, safety practices, and evaluation frameworks for AI technology. Through this partnership, the company aims to support the creation of unified industry benchmarks and protocols.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+   "latest": "2026-06-23",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+     "source": "OpenAI News",
+     "date": "2026-06-23",
+     "extract": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+     "note": "",
+     "url": "https://openai.com/index/gpt-5-immunology-mystery",
+     "kind": "news"
+    }
+   ],
+   "score": 0.435,
+   "summary": "Immunologist Derya Unutmaz utilized GPT-5 Pro to resolve a 3-year-old mystery regarding T cell behavior. This technological breakthrough provides new insights that may assist in future cancer and autoimmune research.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science",
+   "latest": "2026-06-30",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": true,
+   "items": [
+    {
+     "title": "NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science",
+     "source": "NVIDIA Blog",
+     "date": "2026-06-30",
+     "extract": "Life sciences has entered an era of computational scale, and for more than a decade, NVIDIA has built the full GPU-accelerated computing stack — spanning hardware, frameworks, libraries, models, microservices and domain-specific tools — to help researchers run more sophisticated workflows and iterate faster. This week, Anthropic announced Claude Science, an AI workbench for science",
+     "note": "",
+     "url": "https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.421,
+   "summary": "NVIDIA has introduced the BioNeMo Agent Toolkit to provide life sciences researchers with accelerated AI capabilities within the newly announced Claude Science workbench. Anthropic launched Claude Science this week as a dedicated AI platform designed for scientific research. This integration leverages NVIDIA’s full GPU-accelerated computing stack, which includes hardware, frameworks, libraries, models, and domain-specific tools, to assist researchers in executing complex workflows with greater speed.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron",
+   "latest": "2026-06-29",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": true,
+   "items": [
+    {
+     "title": "Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron",
+     "source": "NVIDIA Blog",
+     "date": "2026-06-29",
+     "extract": "Showcasing the importance of open source innovation in American AI, Palantir’s new intelligent engine — introduced today — uses NVIDIA Nemotron open models to serve the needs of U.S. government agencies. Open source software has long been a pillar of U.S. technology leadership. In 1969, DARPA connected four university computers — from UCLA, Stanford, UCSB",
+     "note": "",
+     "url": "https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.417,
+   "summary": "Palantir has launched a new intelligent engine that integrates NVIDIA Nemotron open models to support U.S. government agencies. This technology aims to leverage open source innovation to meet the specific security and operational requirements of American federal departments. The announcement highlights the role of open source software as a foundational element of U.S. technology leadership, tracing that history back to the 1969 DARPA project that connected computers at UCLA, Stanford, and UCSB.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation",
+   "latest": "2026-07-01",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.2,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": true,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation",
+     "source": "arXiv cs.CL",
+     "date": "2026-07-01",
+     "extract": "Language models deployed in high-stakes roles can potentially favor certain entities, brands, or viewpoints, steering user decisions at scale. Such preferential biases can be introduced by any actor in the model's supply chain and are most dangerous when the model reveals its preference only on the relevant topic while behaving identically to its unmodified base on all other inputs. Recent work has shown that these biases can transfer through context distillation on semantically unrelated data, with the signal residing entirely in the soft logit distribution and remaining invisible to text-based inspection.",
+     "note": "",
+     "url": "http://arxiv.org/abs/2607.01208v1",
+     "kind": "news"
+    }
+   ],
+   "score": 0.4,
+   "summary": "The \"Distill to Detect\" research introduces a method for identifying stealth biases in large language models that are otherwise invisible to text-based inspection. These biases, which can favor specific brands or viewpoints, are often hidden within the soft logit distribution of a model. Such preferential signals can be introduced at any stage of the supply chain and are capable of transferring through context distillation on semantically unrelated data. This technique is designed to expose these vulnerabilities, which are particularly dangerous because the model appears identical to its unmodified base version on all inputs except for the specific biased topic.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+   "latest": "2026-07-02",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+     "source": "AI News & Artificial Intelligence",
+     "date": "2026-07-02",
+     "extract": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
+     "note": "",
+     "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.399,
+   "summary": "Indian tech entrepreneur Bhavin Turakhia is investing $30 million of his personal capital to develop an AI-powered alternative to Microsoft Office and Google Apps. This project, titled Neo, marks the fifth venture launched by Turakhia. The new platform focuses on enterprise software and aims to compete directly with existing productivity suites.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "SpaceX shows investors a slim AI smartphone prototype powered by xAI technology",
+   "latest": "2026-07-01",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "SpaceX shows investors a slim AI smartphone prototype powered by xAI technology",
+     "source": "The Decoder",
+     "date": "2026-07-01",
+     "extract": "SpaceX showed investors a prototype AI smartphone that's supposedly thinner than an iPhone and integrates xAI tech. The device runs on a Qualcomm Snapdragon chip with its own operating system. Musk wants to build an \"everything app\" modeled after WeChat.",
+     "note": "",
+     "url": "https://the-decoder.com/spacex-shows-investors-a-slim-ai-smartphone-prototype-powered-by-xai-technology/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3923,
+   "summary": "SpaceX has presented investors with a prototype AI smartphone that features a slimmer design than an iPhone and integrates xAI technology. The device utilizes a Qualcomm Snapdragon chip and operates on a proprietary operating system. Elon Musk intends for this hardware to serve as the foundation for an \"everything app\" modeled after the Chinese platform WeChat.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Meta follows SpaceX's playbook and builds a cloud business to sell its spare AI compute to outside customers",
+   "latest": "2026-07-01",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Meta follows SpaceX's playbook and builds a cloud business to sell its spare AI compute to outside customers",
+     "source": "The Decoder",
+     "date": "2026-07-01",
+     "extract": "Meta is building its own cloud business to sell spare AI compute to outside customers. With planned AI investments of up to $145 billion this year alone, the same question that came up with xAI now applies to Meta: why isn't the company putting all that capacity to work on its own models?",
+     "note": "",
+     "url": "https://the-decoder.com/meta-follows-spacexs-playbook-and-builds-a-cloud-business-to-sell-its-spare-ai-compute-to-outside-customers/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3923,
+   "summary": "Meta is launching a cloud business to sell its surplus AI compute capacity to external customers. The company is pursuing this strategy despite planning AI investments totaling up to $145 billion for this year. This move mirrors the approach taken by SpaceX, raising questions about why the firm is not utilizing its entire infrastructure for its own internal models.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Meta's non-invasive brain-to-text AI is closing the gap with surgical implants",
+   "latest": "2026-07-01",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Meta's non-invasive brain-to-text AI is closing the gap with surgical implants",
+     "source": "The Decoder",
+     "date": "2026-07-01",
+     "extract": "Meta's FAIR AI team uses Brain2Qwerty v2 to translate brain activity into typed sentences, with no implants or surgery required. The system reads magnetic signals outside the skull and reconstructs what a person is typing. Clinical use for paralyzed patients is still a long way off, but accuracy keeps improving with every additional recording. AI agents that wrote their own code helped with the optimization.",
+     "note": "",
+     "url": "https://the-decoder.com/metas-non-invasive-brain-to-text-ai-is-closing-the-gap-with-surgical-implants/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3923,
+   "summary": "Meta’s FAIR AI team has developed Brain2Qwerty v2, a non-invasive system that translates brain activity into typed sentences without requiring surgery or implants. The technology functions by reading magnetic signals from outside the skull to reconstruct a user's typing. While clinical application for paralyzed patients remains a long-term goal, accuracy is increasing as more recordings are added to the system. AI agents that wrote their own code assisted in the optimization of this process.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Hidden code in Claude Code secretly flagged Chinese users",
+   "latest": "2026-07-01",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Hidden code in Claude Code secretly flagged Chinese users",
+     "source": "The Decoder",
+     "date": "2026-07-01",
+     "extract": "Anthropic is removing a hidden monitoring feature from its programming tool, Claude Code, after it sparked outrage on social media.",
+     "note": "",
+     "url": "https://the-decoder.com/hidden-code-in-claude-code-secretly-flagged-chinese-users/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3923,
+   "summary": "Anthropic is removing a hidden monitoring feature from its programming tool, Claude Code, after the code sparked social media outrage by secretly flagging Chinese users. The company confirmed it is eliminating the functionality following the public backlash. This action follows reports that the tool contained specific mechanisms to identify users based in China.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Claude Sonnet 5 continues Anthropic's pattern of hiding price increases behind unchanged token rates",
+   "latest": "2026-07-01",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Claude Sonnet 5 continues Anthropic's pattern of hiding price increases behind unchanged token rates",
+     "source": "The Decoder",
+     "date": "2026-07-01",
+     "extract": "Claude Sonnet 5 ranks fifth in the Artificial Analysis Intelligence Index with 53 points and even beats the pricier Opus 4.8 on some agent-based tasks. But the model chews through about 40 percent more tokens per task than its predecessor, nearly doubling real costs despite identical list prices. Anthropic's hidden price hikes are becoming a pattern.",
+     "note": "",
+     "url": "https://the-decoder.com/claude-sonnet-5-continues-anthropics-pattern-of-hiding-price-increases-behind-unchanged-token-rates/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3923,
+   "summary": "Anthropic’s new Claude Sonnet 5 model is now ranked fifth on the Artificial Analysis Intelligence Index with a score of 53 points, outperforming the more expensive Opus 4.8 on certain agent-based tasks. Despite maintaining the same list prices as its predecessor, the model consumes approximately 40 percent more tokens per task. This increased usage results in nearly double the real-world costs for users.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+   "latest": "2026-07-01",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+     "source": "AI News & Artificial Intelligence",
+     "date": "2026-07-01",
+     "extract": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+     "note": "",
+     "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3923,
+   "summary": "SpaceX has developed a prototype of a handset-like AI device that was recently showcased to investors. This hardware was presented prior to the company going public. The development suggests that SpaceX may be planning an expansion into the wireless industry.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+   "latest": "2026-07-01",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+     "source": "AI News & Artificial Intelligence",
+     "date": "2026-07-01",
+     "extract": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
+     "note": "",
+     "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3923,
+   "summary": "Cloudflare has introduced a new policy requiring AI companies to distinguish between web crawlers used for search and those utilized for AI training or agents. Organizations must implement this separation by September 15. Failure to comply with this deadline will result in these companies facing a default block across many publisher websites.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
+   "latest": "2026-07-01",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
+     "source": "AI News & Artificial Intelligence",
+     "date": "2026-07-01",
+     "extract": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&A on what it takes to build and scale successful companies. Register now to save up to $330.",
+     "note": "",
+     "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3923,
+   "summary": "TechCrunch Disrupt 2026 will feature the return of the Builders Stage, which focuses on practical strategies for scaling startups. The event will host over 10,000 founders, investors, and startup operators for Q&A sessions and discussions on company growth. Attendees can register now to receive a discount of up to $330.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+   "latest": "2026-07-01",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+     "source": "AI News & Artificial Intelligence",
+     "date": "2026-07-01",
+     "extract": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.",
+     "note": "",
+     "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3923,
+   "summary": "Meta is developing a new cloud infrastructure business to sell access to its AI models and compute power. This initiative aims to monetize the company's excess AI compute capacity. By entering this market, Meta will compete directly with established cloud providers including Microsoft Azure, Google Cloud, and Amazon Web Services.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "The ‘Father of the Internet’ is finally retiring",
+   "latest": "2026-07-01",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "The ‘Father of the Internet’ is finally retiring",
+     "source": "AI News & Artificial Intelligence",
+     "date": "2026-07-01",
+     "extract": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
+     "note": "",
+     "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3923,
+   "summary": "Vinton Cerf, recognized as one of the creators of the protocols that form the foundation of the internet, is retiring from his position as Google's chief internet evangelist. He will officially step down from this role next week.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+   "latest": "2026-07-01",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+     "source": "MIT Technology Review",
+     "date": "2026-07-01",
+     "extract": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it…",
+     "note": "",
+     "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3923,
+   "summary": "Large language models like Claude, ChatGPT, and Gemini exhibit predictable patterns when asked to generate random numbers. Users typically receive 7 as the first result, followed by 3 or 4, and then 8 or 9 upon repeated requests. This behavior demonstrates that these chatbots are prone to a form of groupthink that limits the randomness of their outputs. An unnamed startup is currently developing solutions to address this lack of diversity in model responses.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "OpenAI reportedly cut response costs for guest ChatGPT users by more than half",
+   "latest": "2026-06-30",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "OpenAI reportedly cut response costs for guest ChatGPT users by more than half",
+     "source": "The Decoder",
+     "date": "2026-06-30",
+     "extract": "According to a report by The Information, OpenAI has cut inference costs for its AI models by more than half. The company applied the optimizations to ChatGPT, where the number of Nvidia GPUs needed dropped to just a few hundred at times.",
+     "note": "",
+     "url": "https://the-decoder.com/openai-reportedly-cut-response-costs-for-guest-chatgpt-users-by-more-than-half/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3857,
+   "summary": "OpenAI has reduced inference costs for its AI models by more than 50 percent, according to a report from The Information. These optimizations were implemented within ChatGPT, significantly lowering the infrastructure requirements for the service. At times, the number of Nvidia GPUs necessary to power the platform has decreased to only a few hundred.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Agriculture is ready for AI, but its data isn’t",
+   "latest": "2026-06-30",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Agriculture is ready for AI, but its data isn’t",
+     "source": "MIT Technology Review",
+     "date": "2026-06-30",
+     "extract": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork. The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that leave little room for error. Research shows AI-enabled predictive models can improve crop…",
+     "note": "",
+     "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3857,
+   "summary": "Agriculture is ready for AI, but the industry currently lacks the necessary data infrastructure to support it. Leaders are cautioned against investing in artificial intelligence tools before establishing a foundational data framework. While AI-enabled predictive models offer potential improvements for crop management, the sector faces significant challenges, including volatile fertilizer costs, unpredictable weather, and tight profit margins.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Building tech in the world’s secret R&D hub",
+   "latest": "2026-06-30",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Building tech in the world’s secret R&D hub",
+     "source": "MIT Technology Review",
+     "date": "2026-06-30",
+     "extract": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past two decades, however, many of the world’s most influential technology companies…",
+     "note": "",
+     "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3857,
+   "summary": "Zurich has emerged as a major global R&D hub, hosting research facilities for Apple, Anthropic, Disney Research, Google, Meta, Microsoft, NVIDIA, and OpenAI. Despite having a population of just over 400,000 people, the city maintains a concentration of these industry leaders comparable to Silicon Valley. This development has unfolded over the past two decades, establishing the Swiss city as a significant site for influential technology companies.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Agent confidence on the technical frontier",
+   "latest": "2026-06-29",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Agent confidence on the technical frontier",
+     "source": "MIT Technology Review",
+     "date": "2026-06-29",
+     "extract": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial outcomes their businesses seek. A prime opportunity for AI agents…",
+     "note": "",
+     "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.379,
+   "summary": "Gartner has designated 2026 as an \"inflection year\" for organizations to align their artificial intelligence projects with strategic business objectives. As pressure to demonstrate return on investment increases, enterprise investment in AI is currently booming. Executives and technology leaders are turning to agentic AI as a primary opportunity to drive measurable financial outcomes for their businesses.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "IEEE Rolls Out Large Language Models Virtual Training Course",
+   "latest": "2026-06-19",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": true,
+   "items": [
+    {
+     "title": "IEEE Rolls Out Large Language Models Virtual Training Course",
+     "source": "IEEE Spectrum",
+     "date": "2026-06-19",
+     "extract": "Large language models have moved out of the research lab and into engineers’ daily workflow. LLMs serve as reasoning engines that can orchestrate complex tasks including identifying vulnerabilities in source code and transforming fragmented project discussions into rigorous technical specifications. While the general public uses AI tools to write email and plan vacations, technical professionals use LLMs as core architectural elements that are fundamentally changing how digital infrastructures are built and maintained. As the AI models move into mainstream engineering practice, the demand for technical expertise is rising.",
+     "note": "",
+     "url": "https://spectrum.ieee.org/large-language-models-ieee-course",
+     "kind": "news"
+    }
+   ],
+   "score": 0.377,
+   "summary": "The IEEE has launched a virtual training course focused on large language models to address the growing demand for technical expertise in engineering. These models are increasingly integrated into professional workflows, functioning as reasoning engines that identify source code vulnerabilities and convert project discussions into technical specifications. As LLMs transition from research labs to core architectural components, they are fundamentally altering the construction and maintenance of digital infrastructures.",
+   "summary_src": "gemini"
+  }
+ ]
+}
