@@ -1,0 +1,1366 @@
+{
+ "generated_at": 1794662123,
+ "generated_date": "2026-11-14",
+ "n_items": 233,
+ "n_sources_ok": 30,
+ "clusters": [
+  {
+   "headline": "Introducing ChatGPT Wallet",
+   "latest": "2026-11-13",
+   "n_sources": 4,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Introducing ChatGPT Wallet",
+     "source": "OpenAI News",
+     "date": "2026-11-13",
+     "extract": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+     "note": "",
+     "url": "https://openai.com/index/introducing-chatgpt-wallet",
+     "kind": "news"
+    },
+    {
+     "title": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet",
+     "source": "The Decoder",
+     "date": "2026-11-13",
+     "extract": "OpenAI is taking a second shot at AI-powered shopping with ChatGPT Wallet after scrapping its first approach, Instant Checkout. Users register a card once and confirm each purchase through Face ID or a fingerprint, while actual card details stay hidden behind payment tokens. Rivals such as Anthropic, Meta, and xAI already have their agents making purchases.",
+     "note": "",
+     "url": "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/",
+     "kind": "news"
+    },
+    {
+     "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+     "source": "AI News & Artificial Intelligence",
+     "date": "2026-11-13",
+     "extract": "",
+     "note": "",
+     "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+     "kind": "news"
+    },
+    {
+     "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+     "source": "The Verge",
+     "date": "2026-11-13",
+     "extract": "",
+     "note": "",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+     "kind": "news"
+    }
+   ],
+   "score": 0.9933,
+   "summary": "OpenAI has introduced ChatGPT Wallet as a secure method for agents across ChatGPT Work, Codex, and dots to finalize purchases. The feature operates with user approval while maintaining existing card protections.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+   "latest": "2026-11-12",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+     "source": "OpenAI News",
+     "date": "2026-11-12",
+     "extract": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+     "note": "",
+     "url": "https://openai.com/business/customer-stories/amplitude",
+     "kind": "news"
+    }
+   ],
+   "score": 0.8217,
+   "summary": "Amplitude utilizes OpenAI models to power its proactive product agent, Wave. The agent determines what features to build, assists teams in deploying changes using coding agents, and evaluates the resulting impact. This system enables Amplitude to deliver product improvements in a timeframe of 1 to 2 days.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Introducing Businesses in ChatGPT",
+   "latest": "2026-11-10",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Introducing Businesses in ChatGPT",
+     "source": "OpenAI News",
+     "date": "2026-11-10",
+     "extract": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+     "note": "",
+     "url": "https://openai.com/index/introducing-businesses-chatgpt",
+     "kind": "news"
+    }
+   ],
+   "score": 0.8083,
+   "summary": "Businesses in ChatGPT now allows companies to control their enterprise data, monitor how their organization appears, and convert user engagement into direct actions. Users can handle corporate details, receive analytics on their visibility, and drive operational results directly within the platform.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Runway's open-source Praxis-1 turns video AI into a robot controller",
+   "latest": "2026-11-14",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Runway's open-source Praxis-1 turns video AI into a robot controller",
+     "source": "The Decoder",
+     "date": "2026-11-14",
+     "extract": "Runway releases its robotics model Praxis-1 with open weights and source code under the Apache 2.0 license. The model uses knowledge from video training for robot control and leads the World Action Model category on Nvidia's RoboLab-120 benchmark. It can't yet plan complex action sequences on its own, though.",
+     "note": "",
+     "url": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.739,
+   "summary": "Runway has launched its Praxis-1 robotics model with open weights and source code under the Apache 2.0 license. The system translates video training knowledge into robot control capabilities. It currently holds the top position in the World Action Model category on Nvidia's RoboLab-120 benchmark. However, the software is not yet capable of independently planning complex action sequences.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+   "latest": "2026-11-12",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+     "source": "AI News & Artificial Intelligence",
+     "date": "2026-11-12",
+     "extract": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+     "note": "",
+     "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.7257,
+   "summary": "Congressional Democrats have initiated an investigation into Nvidia, marking the second congressional inquiry launched since the emergence of an alleged spy affair. As part of this probe, lawmakers issued a severe letter directed at CEO Huang regarding an alleged scheme involving Trump and Nvidia's sales in China.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+   "latest": "2026-11-09",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+     "source": "NVIDIA Blog",
+     "date": "2026-11-09",
+     "extract": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with additional investments",
+     "note": "",
+     "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.6817,
+   "summary": "NVIDIA has revealed upcoming planned investments in Korean startups during the MSIT-NVIDIA AI Startup Partnership Forum. The event at COEX was hosted by NVIDIA and Korea’s Ministry of Science and ICT, bringing officials together with more than 20 Korean startups specializing in AI semiconductors, foundation models, physical AI, and AI infrastructure. During the gathering, NVIDIA confirmed an investment in the Korean startup Point2, alongside plans for additional investments.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+   "latest": "2026-11-09",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+     "source": "NVIDIA Blog",
+     "date": "2026-11-09",
+     "extract": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU, they must be split across multiple GPUs, requiring careful coordination of request routing",
+     "note": "",
+     "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.6817,
+   "summary": "NVIDIA is launching Dynamo-optimized deployment recipes for four leading open models from South Korea: SK Telecom’s A.X K2, LG AI Research’s K-EXAONE 2.0, Upstage’s Solar Open 2, and Motif Technologies’ Motif-3. Because these models exceed the capacity of a single GPU, they must be divided across multiple GPUs, which demands precise management of request routing.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "llm-gemini 0.37",
+   "latest": "2026-11-12",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.4,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "llm-gemini 0.37",
+     "source": "Simon Willison's Weblog",
+     "date": "2026-11-12",
+     "extract": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. Here's the pricing scheme: Model Dates Input ($/M) Cached input Output Gemini 4 Carbon Through Nov 30, 2026 $2.00 $0.10 $10.00 From Dec 1, 2026 $4.00 $0.20 $20.00 Gemini 4 Argon Through Nov 30, 2026 $2.00 $0.10 $10.00 From Dec 1, 2026 $4.00 $0.20 $20.00 Gemini 4 Hydrogen $1.50 $0.075 $7.50 Carbon and Argon are the same price , and both are scheduled to double in price on December 1st.",
+     "note": "",
+     "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.6777,
+   "summary": "Google released the Gemini 4 Hydrogen model as the cheapest option in the Gemini 4 lineup. Gemini 4 Hydrogen costs $1.50 per million for input, $0.075 for cached input, and $7.50 for output. Meanwhile, the Carbon and Argon models share identical pricing, charging $2.00 for input, $0.10 for cached input, and $10.00 for output through November 30, 2026. These rates for Carbon and Argon are scheduled to double to $4.00 for input, $0.20 for cached input, and $20.00 for output starting December 1, 2026.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "llm 0.37.2",
+   "latest": "2026-11-11",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.4,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "llm 0.37.2",
+     "source": "Simon Willison's Weblog",
+     "date": "2026-11-11",
+     "extract": "Release: llm 0.37.2 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w . LLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai endpoint add command - for using LLM with OpenAI-compatible API endpoints from other providers. Daniel reported two ways this could accidentally send your configured OpenAI API key to one of those providers: if the key named by api_key_name had never been stored, or if a responses: true model was run with -o chat_completions 1 . Tags: projects , security , llm , releases",
+     "note": "",
+     "url": "https://simonwillison.net/2026/Nov/11/llm/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.671,
+   "summary": "The llm 0.37.2 release fixes two security vulnerabilities reported by Daniel de Araujo under identifiers GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w. These flaws involved the extra-openai-models.yaml mechanism—which is used alongside the llm openai endpoint add command introduced in version 0.37 for OpenAI-compatible API endpoints from other providers. The reported issues could cause a configured OpenAI API key to be accidentally sent to an external provider if the key specified by api_key_name lacked stored data or if a responses: true model executed with the -o chat_completions 1 flag.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "llm-gemini 0.36",
+   "latest": "2026-11-10",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.4,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "llm-gemini 0.36",
+     "source": "Simon Willison's Weblog",
+     "date": "2026-11-10",
+     "extract": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude Sonnet 5.5 prices) but scheduled to double in price to $4/$20 on December 1st (same as Opus 5.5). Here are three pelicans for the low, medium and high thinking efforts (it defaults to medium).",
+     "note": "",
+     "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.6643,
+   "summary": "Google has released llm-gemini 0.36, making Gemini 4 Carbon available to everyone after it was initially announced two weeks ago for a subset of cyber defenders. Billed as Google's best ever Gemini, the model launches at $2 per million input tokens and $10 per million output tokens, matching GPT-6.1 Sol and Claude Sonnet 5.5 pricing. However, these rates are scheduled to double to $4 per million input and $20 per million output on December 1st, aligning with Opus 5.5 pricing. The release also includes three pelicans for low, medium, and high thinking efforts, with medium set as the default.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+   "latest": "2026-11-10",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.4,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+     "source": "Simon Willison's Weblog",
+     "date": "2026-11-10",
+     "extract": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, routing, extraction, and long document parsing. For shorter prompts it's priced the same as GPT-6 Luna and Claude Haiku 5.5 - both are $0.10/million input tokens and $0.50/million output. Today's other big model release, Claude Fable 5.2, is 80x that price at $8/$40. The pricing is a little less straightforward as prompts get longer, though.",
+     "note": "",
+     "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.6643,
+   "summary": "Meta AI has launched Muse Ember, its smallest and most efficient model designed for complex reasoning execution and repetitive agent tasks such as tool calls, coding subtasks, routing, extraction, and long document parsing. For shorter prompts, Muse Ember is priced identically to GPT-6 Luna and Claude Haiku 5.5 at $0.10 per million input tokens and $0.50 per million output tokens. In comparison, today's other major model release, Claude Fable 5.2, costs 80 times that price at $8 per million input tokens and $40 per million output tokens. However, the pricing becomes less straightforward as prompts get longer.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+   "latest": "2026-11-06",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+     "source": "NVIDIA Blog",
+     "date": "2026-11-06",
+     "extract": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other’s work — connecting simulation and AI training with experiments on real over-the-air wireless",
+     "note": "",
+     "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.6617,
+   "summary": "NVIDIA open sourced its Aerial wireless software one year ago, integrating it with Sionna and a broader suite of open source tools to accelerate the development of next-generation 6G networks. This collection of tools provides researchers with a foundation to test concepts, compare outcomes, and build upon each other's research. Furthermore, the suite connects simulation and artificial intelligence training with experiments conducted on actual over-the-air wireless systems.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "AI Text Watermarking May Not Be Able to Meet the E.U.’s New Rules",
+   "latest": "2026-11-05",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "AI Text Watermarking May Not Be Able to Meet the E.U.’s New Rules",
+     "source": "IEEE Spectrum",
+     "date": "2026-11-05",
+     "extract": "The European Union now requires AI-generated text to be watermarked so that it can be identified as such. But tests on OpenAI’s new textGrain watermark, released in October and developed to comply with the new E.U. law , show that these watermarks often do not survive additional editing of the text or when it’s under 150 words. With no clear legal benchmark for how well watermarks should work, it’s uncertain whether textGrain will meet Europe’s transparency rules, which could cost the company significantly and make it difficult to detect AI-generated text as models grow more sophisticated.",
+     "note": "",
+     "url": "https://spectrum.ieee.org/ai-watermark-openai-textgrain-europe",
+     "kind": "news"
+    }
+   ],
+   "score": 0.655,
+   "summary": "OpenAI's textGrain watermark, released in October to comply with new European Union rules requiring AI-generated text to be watermarked, often fails when text is edited or falls under 150 words. Because the E.U. lacks a clear legal benchmark for watermark effectiveness, it remains uncertain if textGrain will satisfy these transparency regulations. This uncertainty could lead to significant financial costs for OpenAI and hinder the detection of advanced AI text.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "How a Kenyan Startup Is Rethinking AI for Small Businesses",
+   "latest": "2026-11-03",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "How a Kenyan Startup Is Rethinking AI for Small Businesses",
+     "source": "IEEE Spectrum",
+     "date": "2026-11-03",
+     "extract": "The first time Mutembei Kariuki thought about how AI models could work in Kenya, his home country, was in 2019. He was attending a conference at the University of Tokyo on the future of AI, and kept hearing about how this technology was going to transform the world. “But nobody mentioned Africa at all,” he says. Even then—before AI giants like OpenAI and Anthropic had launched their chatbots to the public—Kariuki could see significant obstacles to AI adoption in Africa. Internet access was slow and unequal, computing resources for training models were scarce, and there was little high-quality, structured training data.",
+     "note": "",
+     "url": "https://spectrum.ieee.org/ai-small-business-mobile-money-startup",
+     "kind": "news"
+    }
+   ],
+   "score": 0.6417,
+   "summary": "In 2019, Kenyan founder Mutembei Kariuki began rethinking artificial intelligence for small businesses after attending a University of Tokyo conference on the future of AI where Africa was entirely unmentioned. Even prior to the public launches of chatbots from major AI companies like OpenAI and Anthropic, Kariuki identified major barriers to artificial intelligence adoption across Africa. These hurdles included slow and uneven internet connectivity, a scarcity of computing resources required for training models, and a lack of high-quality, structured training data.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life",
+   "latest": "2026-11-13",
+   "n_sources": 4,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life",
+     "source": "The Decoder",
+     "date": "2026-11-13",
+     "extract": "Jensen Huang likely left Nvidia more because of risky business practices than anything else, a Wall Street Journal report suggests. At the very least, those practices made him enemies internally. The company offered cloud providers billions in financial guarantees for chip purchases, including a planned $250 billion deal with OpenAI. Interim CEO and then-CFO Colette Kress tried to contain the risk, and Huang reportedly didn't like that.",
+     "note": "",
+     "url": "https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/",
+     "kind": "news"
+    },
+    {
+     "title": "The unfolding Jensen Huang scandal: a timeline",
+     "source": "AI News & Artificial Intelligence",
+     "date": "2026-11-13",
+     "extract": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+     "note": "",
+     "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+     "kind": "news"
+    },
+    {
+     "title": "Jensen Huang didn’t show confidence in his successor, report says",
+     "source": "AI News & Artificial Intelligence",
+     "date": "2026-11-13",
+     "extract": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+     "note": "",
+     "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+     "kind": "news"
+    },
+    {
+     "title": "Jensen Huang was reckless with the environment, too",
+     "source": "The Verge",
+     "date": "2026-11-13",
+     "extract": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-intensive factories, drained power grids from inside massive data centers, and set the stage for a looming e-waste problem. Under Huang's",
+     "note": "",
+     "url": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
+     "kind": "news"
+    },
+    {
+     "title": "Jensen Huang was having a third affair, Reuters reports",
+     "source": "AI News & Artificial Intelligence",
+     "date": "2026-11-12",
+     "extract": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
+     "note": "",
+     "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+     "kind": "news"
+    },
+    {
+     "title": "Silicon Valley Is Still Defending Jensen Huang",
+     "source": "Feed: Artificial Intelligence Latest",
+     "date": "2026-11-12",
+     "extract": "Nvidia employees and tech insiders never thought the chip king would lose his job. Despite his sudden resignation, many of them are still in denial.",
+     "note": "",
+     "url": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/",
+     "kind": "news"
+    },
+    {
+     "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
+     "source": "Feed: Artificial Intelligence Latest",
+     "date": "2026-11-12",
+     "extract": "In a special episode of “Uncanny Valley,” we break down Jensen Huang’s resignation from Nvidia, what comes next for the company, and where the AI industry goes from here.",
+     "note": "",
+     "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
+     "kind": "news"
+    },
+    {
+     "title": "Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women",
+     "source": "Feed: Artificial Intelligence Latest",
+     "date": "2026-11-12",
+     "extract": "A recent WIRED investigation explored the complicated definition of “power” for women in the industry. Jensen Huang’s answers now appear to show his blind spots.",
+     "note": "",
+     "url": "https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/",
+     "kind": "news"
+    },
+    {
+     "title": "Jensen Huang’s $470 Billion Affair",
+     "source": "Feed: Artificial Intelligence Latest",
+     "date": "2026-11-12",
+     "extract": "This week on “Uncanny Valley,” the team unpacks the Nvidia CEO’s affair with an alleged Chinese spy and what that means for the AI industry.",
+     "note": "",
+     "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.5573,
+   "summary": "Jensen Huang's departure from Nvidia was driven more by risky business operations that alienated internal colleagues than by personal matters, according to a Wall Street Journal report. Among these ventures were billions in financial guarantees extended by the company to cloud providers for chip acquisitions, highlighted by a planned $250 billion agreement with OpenAI. Colette Kress, serving as interim CEO and previously as CFO, attempted to limit this exposure, a move Huang reportedly resisted.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "How to train your own Jev for $17",
+   "latest": "2026-09-23",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "How to train your own Jev for $17",
+     "source": "Together.ai",
+     "date": "2026-09-23",
+     "extract": "We just launched our own Jev-like classifier, together/Tev1-4B-experimental, on top of Qwen3.5 4B on Together’s serverless platform. In this blog post we’ll show you how to fine-tune your own version!",
+     "note": "",
+     "url": "https://www.together.ai/blog/how-to-train-your-own-jev",
+     "kind": "news"
+    }
+   ],
+   "score": 0.515,
+   "summary": "Together has released a Jev-like classifier named Tev1-4B-experimental, built on top of Qwen3.5 4B and hosted on Together's serverless platform. A newly published blog post details how users can fine-tune their own version of the model for a cost of $17.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Shield helps technicians hand off legacy portal work with OpenAI",
+   "latest": "2026-11-13",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+     "source": "OpenAI News",
+     "date": "2026-11-13",
+     "extract": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+     "note": "",
+     "url": "https://openai.com/business/customer-stories/shield",
+     "kind": "news"
+    }
+   ],
+   "score": 0.4883,
+   "summary": "Shield has integrated OpenAI to assist IT technicians with transferring tasks within legacy portals. Through this system, Forge agents handle the navigation of these platforms. This capability allows technicians to direct their attention toward problems that require human judgment.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Gondola doubles revenue as its team builds more with Codex",
+   "latest": "2026-11-12",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Gondola doubles revenue as its team builds more with Codex",
+     "source": "OpenAI News",
+     "date": "2026-11-12",
+     "extract": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+     "note": "",
+     "url": "https://openai.com/business/customer-stories/gondola",
+     "kind": "news"
+    }
+   ],
+   "score": 0.4817,
+   "summary": "Gondola has achieved a revenue increase of 100%, driven by its team building more effectively with Codex. Furthermore, Codex increased the productivity of the company's lead engineer by 50%. Additionally, ChatGPT streamlined everyday operations for the organization, which assists creative professionals in securing credit and employment.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Holiday Extras is rethinking what it can build with Codex",
+   "latest": "2026-11-12",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Holiday Extras is rethinking what it can build with Codex",
+     "source": "OpenAI News",
+     "date": "2026-11-12",
+     "extract": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+     "note": "",
+     "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+     "kind": "news"
+    }
+   ],
+   "score": 0.4817,
+   "summary": "Holiday Extras is rethinking what it can build by utilizing Codex. The company is leveraging the technology to convert customer expertise into improved applications. Additionally, this integration aims to drive higher booking conversion and generate new possibilities for growth.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Supporting research on AI and children’s safety",
+   "latest": "2026-11-12",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Supporting research on AI and children’s safety",
+     "source": "OpenAI News",
+     "date": "2026-11-12",
+     "extract": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+     "note": "",
+     "url": "https://openai.com/index/children-first-declaration",
+     "kind": "news"
+    }
+   ],
+   "score": 0.4817,
+   "summary": "OpenAI is pledging $2 million toward studies focusing on artificial intelligence and minors' safety. This funding will back the creation of shared tools designed to evaluate both the risks and the benefits for young users.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "ChatGPT Plus for veterans and servicemembers",
+   "latest": "2026-11-11",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "ChatGPT Plus for veterans and servicemembers",
+     "source": "OpenAI News",
+     "date": "2026-11-11",
+     "extract": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+     "note": "",
+     "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+     "kind": "news"
+    }
+   ],
+   "score": 0.475,
+   "summary": "Over 20,000 transitioning service members and veterans have redeemed a complimentary one-year subscription to ChatGPT Plus. These individuals are utilizing the AI tool to assist in their preparation for civilian careers.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "JioStar’s chief architect on AI discovery at 500M-user scale",
+   "latest": "2026-11-11",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+     "source": "OpenAI News",
+     "date": "2026-11-11",
+     "extract": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+     "note": "",
+     "url": "https://openai.com/index/jiostar-vijay-seshadri",
+     "kind": "news"
+    }
+   ],
+   "score": 0.475,
+   "summary": "Vijay Seshadri, the chief architect of JioStar, detailed the processes behind AI discovery for a user base numbering 500 million. His insights covered operational lessons regarding evaluations, guardrails, and the deployment of artificial intelligence into production environments.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Helping caregivers use AI in everyday life",
+   "latest": "2026-11-10",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Helping caregivers use AI in everyday life",
+     "source": "OpenAI News",
+     "date": "2026-11-10",
+     "extract": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+     "note": "",
+     "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+     "kind": "news"
+    }
+   ],
+   "score": 0.4683,
+   "summary": "OpenAI Academy is launching complimentary, interactive ChatGPT workshops across five cities in the United States to assist caregivers in developing useful artificial intelligence abilities for daily routines. These instructional sessions are designed to provide hands-on experience and practical knowledge for everyday applications.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Closing the AI guidance gap in education",
+   "latest": "2026-11-10",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Closing the AI guidance gap in education",
+     "source": "OpenAI News",
+     "date": "2026-11-10",
+     "extract": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+     "note": "",
+     "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+     "kind": "news"
+    }
+   ],
+   "score": 0.4683,
+   "summary": "New research from ThinkYoung examines ways to close the AI guidance gap in education by focusing on support for teachers, AI literacy, and independent learning. This publication incorporates lessons gathered from OpenAI’s EMEA education partnerships.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+   "latest": "2026-11-12",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.2,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": true,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+     "source": "arXiv cs.AI",
+     "date": "2026-11-12",
+     "extract": "Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline design, they have been studied almost exclusively in fully supervised settings, leaving them untested in realistic regimes where labeled data is scarce but unlabeled data is abundant. In this work, we introduce Agentic Semi-Supervised Learning (AgentSSL), framing SSL as a program search problem and studying how agents navigate this space under limited supervision.",
+     "note": "",
+     "url": "http://arxiv.org/abs/2611.17323v1",
+     "kind": "news"
+    }
+   ],
+   "score": 0.4,
+   "summary": "Researchers have introduced Agentic Semi-Supervised Learning, or AgentSSL, a novel approach that frames semi-supervised learning as a program search problem to investigate whether machine learning engineering agents can utilize unlabeled data. Current machine learning systems face hurdles in acquiring labeled data and handling manual pipeline engineering when applied to new domains. Although recent machine learning engineering agents demonstrate potential in automating pipeline design, prior research has focused almost exclusively on fully supervised settings, leaving these agents untested in realistic environments where labeled data is scarce and unlabeled data is plentiful. The new AgentSSL framework explores how these agents operate within this search space when supervision is restricted.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
+   "latest": "2026-11-14",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
+     "source": "The Decoder",
+     "date": "2026-11-14",
+     "extract": "OpenAI is dissolving its standalone robotics team for the second time, but not because it lacks data. General-purpose models like GPT-6 Astra can apparently control robots directly, making a dedicated unit unnecessary. The researchers are being redistributed across other teams in what the company frames as a way to accelerate its robotics efforts.",
+     "note": "",
+     "url": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.399,
+   "summary": "OpenAI has disbanded its dedicated robotics unit for the second time and redistributed the researchers across other company divisions to accelerate robotics initiatives. The reorganization was driven by the capability of general-purpose models, such as GPT-6 Astra, to directly control robots, which renders a specialized robotics division redundant.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
+   "latest": "2026-11-14",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
+     "source": "The Decoder",
+     "date": "2026-11-14",
+     "extract": "Former OpenAI and Anthropic researcher Jacob Coxon points to a slide from Anthropic's IPO roadshow as a reason he left, saying it shows the company's algorithms are improving not just quickly but at an accelerating rate. Coxon continues to call for a pause on frontier model development so competitors can catch up and human-level AI can become a commodity.",
+     "note": "",
+     "url": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.399,
+   "summary": "Former OpenAI and Anthropic researcher Jacob Coxon stated that Anthropic can currently retrain Mythos using only a fraction of the compute that was originally required. Coxon pointed to a slide from Anthropic's IPO roadshow as the reason for his departure, explaining that it demonstrates the company's algorithms are improving at an accelerating rate. Following these developments, Coxon continues to advocate for a pause in frontier model development to allow competitors to catch up and to enable human-level artificial intelligence to become a commodity.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls",
+   "latest": "2026-11-13",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls",
+     "source": "The Decoder",
+     "date": "2026-11-13",
+     "extract": "Chinese investors are shut out of Anthropic's IPO, Bloomberg reports. Banks are rejecting buy orders from mainland China and Hong Kong, citing U.S. export control rules known as ITAR. Similar restrictions applied during SpaceX's IPO, and Anthropic's products aren't available in either region anyway.",
+     "note": "",
+     "url": "https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3923,
+   "summary": "Banks are blocking investors from mainland China and Hong Kong from participating in Anthropic's initial public offering, according to Bloomberg. Financial institutions are turning down purchase orders by citing United States export control regulations known as ITAR. Comparable limitations were previously enforced during the IPO for SpaceX. Furthermore, Anthropic's offerings are not accessible in mainland China or Hong Kong.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
+   "latest": "2026-11-13",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
+     "source": "The Decoder",
+     "date": "2026-11-13",
+     "extract": "Anthropic's new Claude for Manufacturing plugin connects the AI directly to Autodesk Fusion, Oracle NetSuite, and Infor. Its 17 specialized skills let the AI draft quotes, compare suppliers, and place backup orders when deliveries are delayed, all after human approval. The plugin doesn't control physical machines yet, but Anthropic is separately developing the Model Hardware Standard for that.",
+     "note": "",
+     "url": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3923,
+   "summary": "Anthropic has launched Claude for Manufacturing, a new plugin that integrates its AI directly into Autodesk Fusion, Oracle NetSuite, and Infor to automate industrial workflows. The tool features 17 specialized skills that enable the AI to draft quotes, compare suppliers, and place backup orders for delayed deliveries, which are all executed after human approval. While this software does not currently control physical machines, Anthropic is developing a separate initiative called the Model Hardware Standard for that capability.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Nearly 70 percent of US agencies use generative AI, and unions are finally catching up with guardrails",
+   "latest": "2026-11-13",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Nearly 70 percent of US agencies use generative AI, and unions are finally catching up with guardrails",
+     "source": "The Decoder",
+     "date": "2026-11-13",
+     "extract": "US public-sector unions are increasingly pushing through protections against AI surveillance and automated firings. In Oakland, a strike vote forced retraining programs instead of layoffs, and a transport union in Ohio won veto power over autonomous vehicles. California banned so-called bossware. All of this is happening while nearly 70 percent of US government agencies already use generative AI.",
+     "note": "",
+     "url": "https://the-decoder.com/nearly-70-percent-of-us-agencies-use-generative-ai-and-unions-are-finally-catching-up-with-guardrails/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3923,
+   "summary": "Nearly 70 percent of US government agencies utilize generative AI as public-sector unions increasingly establish protections against automated firings and AI surveillance. For example, a strike vote in Oakland secured retraining programs in place of layoffs, while an Ohio transport union obtained veto power over autonomous vehicles. Additionally, California has prohibited the use of bossware.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models",
+   "latest": "2026-11-13",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models",
+     "source": "The Decoder",
+     "date": "2026-11-13",
+     "extract": "Former OpenAI researcher Will DePue says he has produced the first technical evidence that DeepSeek, Moonshot AI, MiniMax, and Ant Group are using Nvidia's latest Blackwell GPUs despite US export controls. His forensic method reads characteristic chip signatures directly from published model weights. He estimates the hardware behind the five training runs cost more than half a billion dollars.",
+     "note": "",
+     "url": "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3923,
+   "summary": "Former OpenAI researcher Will DePue states he has discovered Nvidia Blackwell fingerprints hidden within six Chinese AI models. His forensic analysis reveals that DeepSeek, Moonshot AI, MiniMax, and Ant Group are utilizing Nvidia's newest Blackwell graphics processing units, bypassing United States export restrictions. By examining characteristic chip signatures directly from the published model weights, he produced this technical evidence. Furthermore, he calculates that the hardware utilized for the five training runs exceeded half a billion dollars in cost.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+   "latest": "2026-11-13",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+     "source": "AI News & Artificial Intelligence",
+     "date": "2026-11-13",
+     "extract": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+     "note": "",
+     "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3923,
+   "summary": "Venture capitalists and founders report that Jensen Huang's departure leaves a major void in artificial intelligence startup funding. Nvidia previously invested tens of billions of dollars into AI startups while Huang was in charge. In his absence, startup creators and investors are preparing for reduced financial contributions and decreased valuations.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+   "latest": "2026-11-13",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+     "source": "AI News & Artificial Intelligence",
+     "date": "2026-11-13",
+     "extract": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+     "note": "",
+     "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3923,
+   "summary": "Venture capitalists in Israel believe Nvidia's current turmoil presents an opportunity for market challengers. Although the local startup ecosystem relies heavily on Nvidia and its dominant position in artificial intelligence, many industry participants are simultaneously concerned about the consequences of an unspecified departure.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+   "latest": "2026-11-13",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+     "source": "MIT Technology Review",
+     "date": "2026-11-13",
+     "extract": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investors before its public offering that it was unconcerned…",
+     "note": "",
+     "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3923,
+   "summary": "Silicon Valley leaders such as OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, who built careers claiming foresight, failed to predict the outcome of the midterms. Industry figures trade on long-term vision, demonstrated by Meta's Mark Zuckerberg outlining a 10-year Facebook road map in 2016 and Google expressing indifference to investors prior to its public offering.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Amazon has a plan to index the world’s online shopping data",
+   "latest": "2026-11-13",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Amazon has a plan to index the world’s online shopping data",
+     "source": "The Verge",
+     "date": "2026-11-13",
+     "extract": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their",
+     "note": "",
+     "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3923,
+   "summary": "Amazon is developing an initiative called the \"World Product Graph\" to create a data repository containing every item sold across the internet, including merchandise outside Amazon's own catalog. As reported by Reuters, this information will be accessible directly on Amazon's platform. The project aims to reduce the probability that consumers depart Amazon to conduct product research elsewhere.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Le Chonk: Built for Coders, Trusted by Defenders.",
+   "latest": "2026-10-29",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Le Chonk: Built for Coders, Trusted by Defenders.",
+     "source": "Mistral Blog",
+     "date": "2026-10-29",
+     "extract": "The weights of Mistral Large 4 (Le Chonk) are now open. A 1T parameter multimodal model, and best open-weight model for coding, trained in Europe.",
+     "note": "",
+     "url": "https://mistral.ai/news/mistral-large-4-oss/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3883,
+   "summary": "The weights of Mistral Large 4, also known as Le Chonk, have been released as open weights. This European-trained, 1-trillion parameter multimodal model is recognized as the top open-weight model for programming.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+   "latest": "2026-11-12",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+     "source": "AI News & Artificial Intelligence",
+     "date": "2026-11-12",
+     "extract": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+     "note": "",
+     "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3857,
+   "summary": "Nebius intends to finance its $40 billion artificial intelligence infrastructure growth via customer prepayments and loans, despite questions regarding its funding model stemming from delays at a Microsoft data center. The company is putting its neocloud playbook to the test through this planned spending.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Beware the New AI-Fueled Ransomware Boom",
+   "latest": "2026-11-14",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Beware the New AI-Fueled Ransomware Boom",
+     "source": "Feed: Artificial Intelligence Latest",
+     "date": "2026-11-14",
+     "extract": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
+     "note": "",
+     "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.375,
+   "summary": "Unskilled threat actors are leveraging artificial intelligence tools to cause widespread disruption, though fully automated ransomware has not yet emerged. The situation marks a new boom in ransomware fueled by AI technology.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+   "latest": "2026-11-13",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+     "source": "NVIDIA Blog",
+     "date": "2026-11-13",
+     "extract": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI",
+     "note": "",
+     "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3683,
+   "summary": "Artificial intelligence is assisting medical professionals in streamlining routine duties so they can dedicate additional time to patients. Healthcare organizations and startups are deploying this technology across various medical sectors, including aiding radiologists, supporting hospital teams, assisting patients at home, and connecting individuals with clinical trials, ranging from smart hospitals to pediatric research. Throughout these applications, physicians remain central by reviewing the technology's output.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
+   "latest": "2026-11-13",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
+     "source": "Artificial Intelligence",
+     "date": "2026-11-13",
+     "extract": "GS Caltex connects Amazon SageMaker Canvas to Amazon SageMaker Pipelines so process engineers' no-code models run in production. This post shows how ML engineers reuse validated preprocessing flows and models, cutting deployment from about a week to a few hours and running batch inference every 30 minutes.",
+     "note": "",
+     "url": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3683,
+   "summary": "GS Caltex has integrated Amazon SageMaker Canvas with Amazon SageMaker Pipelines to deploy no-code models built by process engineers into production. Through this integration, machine learning engineers are able to reuse validated preprocessing flows and models. This workflow reduces the deployment timeline from approximately a week down to just a few hours. Additionally, the system executes batch inference every 30 minutes.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
+   "latest": "2026-11-13",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
+     "source": "Artificial Intelligence",
+     "date": "2026-11-13",
+     "extract": "Coding agents work in tasks, and the number that matters is cost per solved task, not price per token. In this post, you use the AWS CDK to deploy LiteLLM with the NVIDIA NeMo Switchyard routing plugin on Amazon Bedrock, then measure cost per solved task for a routed model group against single-model baselines.",
+     "note": "",
+     "url": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3683,
+   "summary": "Amazon Bedrock now allows developers to route coding agent requests to the appropriate model using the NVIDIA NeMo Switchyard routing plugin. A new guide demonstrates how to deploy LiteLLM with this plugin on Amazon Bedrock using the AWS CDK. Practitioners can then measure the cost per solved task for a routed model group, comparing it against single-model baselines.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime",
+   "latest": "2026-11-13",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime",
+     "source": "Artificial Intelligence",
+     "date": "2026-11-13",
+     "extract": "Amazon Bedrock AgentCore runtime V2 snapshots your initialized environment and restores it for each new session, so session start no longer grows with image size. This post explains how V2 starts a session, how to measure session start time, and four patterns to keep work off the first request.",
+     "note": "",
+     "url": "https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3683,
+   "summary": "Amazon Bedrock AgentCore runtime V2 introduces snapshotting of initialized environments to restore them for each new session, preventing session start times from growing with image size. A recent post details the V2 session-start process, methods for measuring startup duration, and four distinct architectural patterns designed to offload work from the initial request.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures",
+   "latest": "2026-11-13",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures",
+     "source": "Artificial Intelligence",
+     "date": "2026-11-13",
+     "extract": "Deploy OpenFold3-preview from Amazon SageMaker JumpStart to predict 3D structures of proteins, DNA, RNA, and ligand complexes in your own AWS account. The post covers asynchronous inference, multi-GPU parallelism, bringing your own MSAs for accuracy and privacy, and scaling to zero to reduce cost.",
+     "note": "",
+     "url": "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3683,
+   "summary": "OpenFold3-preview is now available for deployment on Amazon SageMaker JumpStart to forecast the 3D structures of ligand complexes, RNA, DNA, and proteins within a personal AWS account. The release highlights support for multi-GPU parallelism, asynchronous inference, bringing personal multiple sequence alignments (MSAs) for enhanced privacy and accuracy, and scaling to zero to minimize expenses.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot",
+   "latest": "2026-11-13",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot",
+     "source": "Artificial Intelligence",
+     "date": "2026-11-13",
+     "extract": "Learn how AssemblyAI runs cost-optimized speech-to-text inference at scale on AWS, using Amazon ECS, Amazon EC2 Spot GPU instances, and an Amazon SQS-based retry architecture to achieve 70% cost savings while maintaining SLA commitments across European Regions.",
+     "note": "",
+     "url": "https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3683,
+   "summary": "AssemblyAI has achieved 70% cost savings on AWS by running speech-to-text inference at scale using Amazon ECS, Amazon EC2 Spot GPU instances, and an Amazon SQS-based retry architecture. This cost-optimizing approach allows the company to maintain its service level agreement commitments across European Regions.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock",
+   "latest": "2026-11-13",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock",
+     "source": "Artificial Intelligence",
+     "date": "2026-11-13",
+     "extract": "Amazon Bedrock provides built-in, zero-instrumentation cost attribution that traces every inference call back to the IAM principal that made it. This post shows how to attribute per-user Bedrock costs for AI developer and productivity tools using IAM Identity Center, session tags, and CUR 2.0, and how to enforce per-user usage limits.",
+     "note": "",
+     "url": "https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3683,
+   "summary": "Amazon Bedrock now features native, zero-instrumentation cost attribution that maps every inference call directly to the IAM principal responsible. An official guide details methods for tracking individual user expenses related to AI developer and productivity tools by leveraging IAM Identity Center, session tags, and CUR 2.0. Additionally, the documentation outlines procedures for setting and enforcing per-user usage caps.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture",
+   "latest": "2026-11-13",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture",
+     "source": "Artificial Intelligence",
+     "date": "2026-11-13",
+     "extract": "Amazon SageMaker HyperPod Data Capture records live inference inputs and outputs to Amazon S3. This post walks through one end-to-end example: capturing a support router's production traffic, surfacing a new-product blind spot with Amazon Athena, fine-tuning on the captured data with the HyperPod training operator, and measuring the before-and-after lift.",
+     "note": "",
+     "url": "https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3683,
+   "summary": "Amazon SageMaker HyperPod Data Capture has been introduced to record live inference inputs and outputs directly to Amazon S3. A published walkthrough demonstrates this capability using an end-to-end example that captures production traffic from a support router. The process involves identifying a new-product blind spot with Amazon Athena, fine-tuning the model on the captured data via the HyperPod training operator, and subsequently measuring the performance lift before and after the update.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Helping robots fit into the human workplace",
+   "latest": "2026-11-13",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Helping robots fit into the human workplace",
+     "source": "MIT News",
+     "date": "2026-11-13",
+     "extract": "Founded by Anthony Jules ’92, SM ’92 and Professor Emeritus Rodney Brooks, Robust AI’s robots are designed to collaborate with humans in factories and warehouses.",
+     "note": "",
+     "url": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3683,
+   "summary": "Robust AI is creating robots engineered to work alongside humans in warehouses and factories. Anthony Jules ’92, SM ’92 and Professor Emeritus Rodney Brooks established the company.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
+   "latest": "2026-11-13",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
+     "source": "Feed: Artificial Intelligence Latest",
+     "date": "2026-11-13",
+     "extract": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
+     "note": "",
+     "url": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3683,
+   "summary": "Mansa is betting on artificial intelligence microdramas to function as proofs of concept for the preferences of Black audiences. Meanwhile, critics are accusing the studio of selling out.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "How Microcredentials Help Engineers Build Trustworthy AI",
+   "latest": "2026-11-13",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "How Microcredentials Help Engineers Build Trustworthy AI",
+     "source": "IEEE Spectrum",
+     "date": "2026-11-13",
+     "extract": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Translating high-level AI ethics , governance , and auditing into daily operational workflows has become one of the industry’s toughest challenges. “AI ethics” refers to the principles developers use to govern and operate workflows. “Governance” refers to the rules and procedures an organization establishes for AI workflows and how they interact with organizational data. Auditing is the process of assessing and validating systems to ensure safety, fairness, transparency, and legal compliance.",
+     "note": "",
+     "url": "https://spectrum.ieee.org/microcredentials-trustworthy-ai",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3683,
+   "summary": "Microcredentials help engineering teams address compliance issues as they integrate artificial intelligence. Translating high-level AI ethics, governance, and auditing into daily operational workflows has become one of the industry's toughest challenges as teams move at breakneck speed. AI ethics refers to the principles developers use to govern and operate workflows, while governance is the set of rules and procedures an organization establishes for AI workflows and data interaction. Auditing involves assessing and validating systems to ensure they remain safe, fair, transparent, and legally compliant.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Microsoft Research Focus – Edition #98",
+   "latest": "2026-11-12",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Microsoft Research Focus – Edition #98",
+     "source": "Microsoft Research",
+     "date": "2026-11-12",
+     "extract": "What's new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old mathematics challenge, and advances making AI coding agents faster and more efficient.",
+     "note": "",
+     "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
+     "kind": "news"
+    },
+    {
+     "title": "Microsoft Research Focus – Edition #97",
+     "source": "Microsoft Research",
+     "date": "2026-10-29",
+     "extract": "Host Sowbhagya Suresh shares some of the latest news and cutting-edge research from across Microsoft—from understanding the challenges facing coding agents to uncovering how people use AI at work and improving extended-range weather forecasting.",
+     "note": "",
+     "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3617,
+   "summary": "In Microsoft Research Focus Edition #98, host Anson Ho presents the division's newest developments. The updates feature AI-powered universal translation and a solution to a 31-year-old mathematics challenge. Additionally, the episode highlights progress that improves the speed and efficiency of AI coding agents.",
+   "summary_src": "gemini"
+  }
+ ]
+}
