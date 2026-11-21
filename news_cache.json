@@ -1,0 +1,1321 @@
+{
+ "generated_at": 1795271502,
+ "generated_date": "2026-11-21",
+ "n_items": 246,
+ "n_sources_ok": 31,
+ "clusters": [
+  {
+   "headline": "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions",
+   "latest": "2026-11-21",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions",
+     "source": "The Decoder",
+     "date": "2026-11-21",
+     "extract": "OpenAI has released new prompt templates for GPT-6.2 Astra and Sol meant to fix common model behaviors such as overly brief answers, unnecessary follow-up questions, and excessive testing when coding. The API is changing as well, since editing a conversation's history can discard reasoning content and lower response quality.",
+     "note": "",
+     "url": "https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.739,
+   "summary": "OpenAI has published new prompt templates for GPT-6.2 Astra and Sol to address frequent model issues like excessively brief replies, unneeded follow-up questions, and over-testing during coding tasks. Additionally, the API is being updated because modifying a conversation's history can erase reasoning content and decrease response quality.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
+   "latest": "2026-11-21",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
+     "source": "The Decoder",
+     "date": "2026-11-21",
+     "extract": "Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalized in Lean that spans over 250,000 pages. Just hours later, Stanford researchers published an independent, entirely human competing proof, and mathematicians are now checking whether either one holds up.",
+     "note": "",
+     "url": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.739,
+   "summary": "Stanford researchers published an independent, entirely human competing proof of the Riemann hypothesis mere hours after Anthropic mathematician Levent Alpöge stated he used Claude to solve math's most famous open problem for 167 years. Alpöge's claim involved a Lean-formalized proof spanning over 250,000 pages. Mathematicians are currently verifying whether either of the two proofs is valid.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop",
+   "latest": "2026-11-21",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop",
+     "source": "The Decoder",
+     "date": "2026-11-21",
+     "extract": "Thinking Machines has released Inkling 2 Mini, an open looped transformer that runs 12 of its 24 layers three times per token. This lets the model reason internally for longer without generating extra text. On Artificial Analysis's Intelligence Index, it ties with Qwen3.8 27B at roughly six times lower cost.",
+     "note": "",
+     "url": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.739,
+   "summary": "Thinking Machines has launched Inkling 2 Mini, an open looped transformer model that runs 12 of its 24 layers three times per token to solve problems using fewer words while operating on a laptop. This architecture allows the software to perform internal reasoning for extended periods without producing additional text. According to Artificial Analysis's Intelligence Index, the system ties with Qwen3.8 27B while operating at approximately six times lower cost.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Apple joins the race for AI agents that control your device while raising new barriers for competitors",
+   "latest": "2026-11-20",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Apple joins the race for AI agents that control your device while raising new barriers for competitors",
+     "source": "The Decoder",
+     "date": "2026-11-20",
+     "extract": "After Meta, OpenAI, Anthropic, and Google launched their own AI agents, Apple is now building one too - while making it harder for rivals to access its devices.",
+     "note": "",
+     "url": "https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.7323,
+   "summary": "Apple is developing its own AI agent to control devices, following similar launches by OpenAI, Anthropic, Google, and Meta. Alongside this move, the company is creating new obstacles that make it more difficult for competitors to reach its hardware.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+   "latest": "2026-11-19",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+     "source": "The Verge",
+     "date": "2026-11-19",
+     "extract": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of Chess's new Classic Games platform, which is launching",
+     "note": "",
+     "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+     "kind": "news"
+    }
+   ],
+   "score": 0.7257,
+   "summary": "Chess.com is expanding beyond chess by launching a new platform called Classic Games that features 10 additional pastimes. This follows the company's release earlier this year of Gambit, a poker site that does not involve gambling. The newly added options consist of backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and word, which is an alternative to Scrabble.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
+   "latest": "2026-11-21",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
+     "source": "Artificial Intelligence",
+     "date": "2026-11-21",
+     "extract": "AWS Quick is the AI workspace built only for work. Today we're releasing updates that help your team get more done: build and run business-process flows in chat, triage your day in the updated web app, get more complete answers from multiple agents at once, and connect new data sources like Meta ads and Amplitude.",
+     "note": "",
+     "url": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.715,
+   "summary": "AWS Quick has launched updates introducing more capable business-process flows in chat, a refreshed web application for daily triage, and collaborative multi-agent functionality that delivers more complete answers. Additionally, the AI workspace built exclusively for work now supports new data source integrations for Meta ads and Amplitude.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
+   "latest": "2026-11-20",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
+     "source": "Artificial Intelligence",
+     "date": "2026-11-20",
+     "extract": "Amazon SageMaker HyperPod now offers managed cluster extensions for observability and user management, bringing declarative, API- and console-driven configuration to the software running on Slurm cluster nodes. This post explains how the extensions work and follows a platform team through a quarter of running a shared Slurm cluster with them.",
+     "note": "",
+     "url": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.7083,
+   "summary": "Amazon SageMaker HyperPod has launched managed cluster extensions for observability and user management. This update introduces declarative, API-driven, and console-driven configuration capabilities for software operating on Slurm cluster nodes. A new blog post details the functionality of these extensions while following a platform team managing a shared Slurm cluster with the tools over the course of a quarter.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters",
+   "latest": "2026-11-20",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters",
+     "source": "Artificial Intelligence",
+     "date": "2026-11-20",
+     "extract": "Amazon SageMaker HyperPod introduces the Global Inference Gateway, one managed endpoint that routes inference requests across your HyperPod clusters in one Region or across Regions. It picks the best cluster, fails over automatically, and authenticates every request with SigV4 and IAM over AWS PrivateLink.",
+     "note": "",
+     "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.7083,
+   "summary": "Amazon has launched the SageMaker HyperPod Global Inference Gateway, providing a single managed endpoint to route inference requests across HyperPod clusters within a single Region or across multiple Regions. The system automatically selects the optimal cluster and executes automatic failovers while securing every request using SigV4 and IAM over AWS PrivateLink.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Announcing Amazon Textract Insights: Verifiable generative AI for documents",
+   "latest": "2026-11-20",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Announcing Amazon Textract Insights: Verifiable generative AI for documents",
+     "source": "Artificial Intelligence",
+     "date": "2026-11-20",
+     "extract": "Announcing the general availability of Amazon Textract Insights, a new generative AI feature of Amazon Textract. Describe the fields you need in natural language, submit a document or a mixed packet, and receive structured results with a confidence score and page-level grounding for each value, with no model training required.",
+     "note": "",
+     "url": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.7083,
+   "summary": "Amazon has launched Amazon Textract Insights as a generally available generative AI feature for Amazon Textract. Users can describe required fields using natural language and submit either a single document or a mixed packet. The tool then delivers structured results that include both a confidence score and page-level grounding for every extracted value. This process requires no model training.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod",
+   "latest": "2026-11-20",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod",
+     "source": "Artificial Intelligence",
+     "date": "2026-11-20",
+     "extract": "Amazon SageMaker HyperPod now offers enhanced observability to help you diagnose GPU training issues faster. It brings together diagnostic and profiling capabilities for training workloads on both Amazon EKS and Slurm orchestrators, pinpointing issues across GPU, network, and host layers.",
+     "note": "",
+     "url": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.7083,
+   "summary": "Amazon SageMaker HyperPod has launched enhanced infrastructure observability designed to accelerate the diagnosis of GPU training problems. The new feature integrates diagnostic and profiling tools for training workloads utilizing both Amazon EKS and Slurm orchestrators. Through this functionality, users can isolate and identify problems across host, network, and GPU layers.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Amazon SageMaker Inference: 2026 launches in review, part 2",
+   "latest": "2026-11-20",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Amazon SageMaker Inference: 2026 launches in review, part 2",
+     "source": "Artificial Intelligence",
+     "date": "2026-11-20",
+     "extract": "This second installment reviews 13 more Amazon SageMaker AI inference launches from 2026, spanning configuration recommendations, fitting more models onto each GPU, serving models too large for one instance, cross-Region routing, and post-launch tuning, bringing the year's total to 26.",
+     "note": "",
+     "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.7083,
+   "summary": "Amazon SageMaker AI inference introduced 13 additional launches in 2026, marking the second installment of a review series and bringing the year's total to 26. These updates encompass cross-Region routing, configuration recommendations, post-launch tuning, accommodating multiple models on a single GPU, and serving models that exceed the capacity of a single instance.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Qwen3 TTS is now available on Together AI",
+   "latest": "2026-11-20",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Qwen3 TTS is now available on Together AI",
+     "source": "Together.ai",
+     "date": "2026-11-20",
+     "extract": "Qwen3 TTS is now available on Together AI. Keep one voice across your product, change its tone with a plain-language instruction and move it between 10 languages, with first audio in as little as 97ms.",
+     "note": "",
+     "url": "https://www.together.ai/blog/qwen3-tts",
+     "kind": "news"
+    }
+   ],
+   "score": 0.7083,
+   "summary": "Qwen3 TTS has been launched on Together AI. Users can maintain a single voice throughout their product, adjust the tone using simple language instructions, and utilize the voice across 10 languages. Additionally, the system generates the initial audio in as little as 97ms.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Introducing Together Storage Accelerator: fast, free data caching for your GPU cluster",
+   "latest": "2026-11-19",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Introducing Together Storage Accelerator: fast, free data caching for your GPU cluster",
+     "source": "Together.ai",
+     "date": "2026-11-19",
+     "extract": "Together Storage Accelerator is a distributed caching layer for Together GPU Clusters: about 20x faster warm reads, one origin fetch per cluster, no application changes, and it's included free.",
+     "note": "",
+     "url": "https://www.together.ai/blog/introducing-together-storage-accelerator",
+     "kind": "news"
+    }
+   ],
+   "score": 0.7017,
+   "summary": "Together Storage Accelerator has been introduced as a free, distributed caching layer for Together GPU Clusters. The system delivers warm reads that are roughly 20 times faster and requires only one origin fetch per cluster. Additionally, the caching layer operates without needing any application changes and is included at no cost.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Meet Shepherd, the Meta-Agent Keeping Rogue AI In Check",
+   "latest": "2026-11-19",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Meet Shepherd, the Meta-Agent Keeping Rogue AI In Check",
+     "source": "IEEE Spectrum",
+     "date": "2026-11-19",
+     "extract": "AI agents are running amok on the internet, armed with commands to accomplish certain tasks but often acting in undesirable or unexpected ways. These rogue incidents run the gamut from deleting an entire email inbox to hacking websites and even launching cyberattacks . Much like human workers need managers, Weiyan Shi , an assistant professor at Northeastern University , believes AI agents require oversight. “They are running potentially for a long time. However, the longer they run, they may have some errors, and they may make some dangerous, unsafe actions. We feel like there should be a middle layer,” she says.",
+     "note": "",
+     "url": "https://spectrum.ieee.org/ai-agent-manager",
+     "kind": "news"
+    }
+   ],
+   "score": 0.7017,
+   "summary": "Northeastern University assistant professor Weiyan Shi has introduced Shepherd, a meta-agent designed to oversee AI agents and prevent them from taking rogue, dangerous, or unsafe actions. Autonomous AI programs frequently exhibit undesirable behaviors during long execution periods, ranging from website hacking and cyberattacks to the deletion of entire email inboxes. Shi argues that these systems require a supervisory middle layer of management to address operational errors.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Why a Computer Scientist Thinks Superintelligence Won’t Happen",
+   "latest": "2026-11-19",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Why a Computer Scientist Thinks Superintelligence Won’t Happen",
+     "source": "IEEE Spectrum",
+     "date": "2026-11-19",
+     "extract": "Many people were caught off guard this past summer when employees of one of the world’s leading AI companies began casually debating whether their products would lead to human extinction. It started when Anthropic researcher Jacob Coxon announced his resignation, warning that his employer and OpenAI were “racing straight to self-improving superintelligence and gambling with our lives.” Evan Hubinger, Anthropic’s head of alignment science, replied , “Jacob is correct here—we really do earnestly believe AI could kill all humans!” And Anthropic CEO Dario Amodei subsequently told CNN , “I agree with Jacob much more than I disagree with him.” These concerns stem from a belief that has circulated…",
+     "note": "",
+     "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
+     "kind": "news"
+    }
+   ],
+   "score": 0.7017,
+   "summary": "Computer scientist Jacob Coxon resigned from Anthropic over summer concerns that the company and OpenAI are rushing toward self-improving superintelligence and risking human lives. Anthropic's head of alignment science, Evan Hubinger, responded that Coxon was correct and that they genuinely believe artificial intelligence could kill all humans. Additionally, Anthropic CEO Dario Amodei stated in a CNN interview that he agreed with Coxon far more than he disagreed with him.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+   "latest": "2026-11-17",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+     "source": "NVIDIA Blog",
+     "date": "2026-11-17",
+     "extract": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems. In NVIDIA’s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform for high-performance",
+     "note": "",
+     "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.6883,
+   "summary": "On Monday in Chicago at SC26, NVIDIA's Ian Buck initiated the company's week by introducing new tools for AI agents designed to plan experiments, execute code, and verify results on researchers' systems. During his special address, Buck revealed Nemotron for Science, the Rubin HPC GPU, and a broader Vera CPU platform tailored for high-performance computing.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "IEEE Celebrates 10 Years of Incorporating Ethics Into AI Systems",
+   "latest": "2026-11-17",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "IEEE Celebrates 10 Years of Incorporating Ethics Into AI Systems",
+     "source": "IEEE Spectrum",
+     "date": "2026-11-17",
+     "extract": "Policymakers, technologists, and members of the public have raised concerns about the harm AI’s rapid advancement might cause to society. Their concerns include bias, data privacy violations, the spread of misinformation, and losing control of AI agents. Those issues are relatively new to many people, but the IEEE Standards Association has been working for the past decade on ways to prioritize the responsible development of AI systems. In 2016 IEEE SA launched the IEEE Global Initiative for Ethical Considerations in Autonomous and Intelligent Systems (A/IS) and published the Ethically Aligned Design report.",
+     "note": "",
+     "url": "https://spectrum.ieee.org/ieee-ethics-ai-systems",
+     "kind": "news"
+    }
+   ],
+   "score": 0.6883,
+   "summary": "The IEEE Standards Association is marking a decade of efforts focused on prioritizing responsible AI system development, as policymakers, technologists, and the public voice worries regarding societal harms from fast-paced artificial intelligence progress. Public concerns center around issues like data privacy violations, bias, misinformation spread, and a loss of control over AI agents. To address these challenges, IEEE SA established the IEEE Global Initiative for Ethical Considerations in Autonomous and Intelligent Systems (A/IS) in 2016. Additionally, the organization released the Ethically Aligned Design report as part of its ongoing work over the past ten years.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Understand How Satellite Links Shape IoT Device Design and Testing",
+   "latest": "2026-11-17",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Understand How Satellite Links Shape IoT Device Design and Testing",
+     "source": "IEEE Spectrum",
+     "date": "2026-11-17",
+     "extract": "How 3GPP Releases 15, 16, and 17 brought satellite access into 5G NR, NB-IoT, and eMTC. Why satellite links suit IoT devices that send small, infrequent, and delay-tolerant messages. Where non-terrestrial networks (NTN) add value, including asset tracking, agriculture, public safety, and offshore operations. How power efficiency, RF signaling, and antenna design shape satellite-connected device development. Why long propagation delay, Doppler shift, and intermittent coverage make static test methods insufficient. Which measurements show deployment readiness, such as transmit power, modulation accuracy, spectral emissions, receiver sensitivity, and block error rate (BLER).",
+     "note": "",
+     "url": "https://content.knowledgehub.wiley.com/5g-nr-ntn-design-and-test-challenges-for-satellite-connected-iot/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.6883,
+   "summary": "3GPP Releases 15, 16, and 17 have introduced satellite access into 5G NR, NB-IoT, and eMTC. Non-terrestrial networks (NTN) provide value for asset tracking, agriculture, public safety, and offshore operations by accommodating IoT devices that transmit small, infrequent, and delay-tolerant messages. Developing these satellite-connected devices requires addressing power efficiency, RF signaling, and antenna design. Furthermore, static test methods are insufficient due to long propagation delay, Doppler shift, and intermittent coverage. Instead, deployment readiness is determined through specific measurements including transmit power, modulation accuracy, spectral emissions, receiver sensitivity, and block error rate (BLER).",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+   "latest": "2026-11-16",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+     "source": "NVIDIA Blog",
+     "date": "2026-11-16",
+     "extract": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA DGX Spark systems, each connected directly to its two neighbors in a ring, with an NVIDIA HPC SDK installation playbook coming",
+     "note": "",
+     "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.6817,
+   "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics, and developers. The NVIDIA DGX Spark Developer Kit turns a desk into a supercomputing lab by providing a four-node cluster of NVIDIA DGX Spark systems. Each system in the kit is connected directly to its two neighbors in a ring topology. Additionally, the release includes an upcoming NVIDIA HPC SDK installation playbook.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+   "latest": "2026-11-16",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+     "source": "NVIDIA Blog",
+     "date": "2026-11-16",
+     "extract": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference. NVIDIA swept every MLPerf Training v6.1 benchmark and, in its first MLPerf Endpoints submission, delivered more than 10x generational gains in throughput per watt for agentic AI — measuring how much agentic",
+     "note": "",
+     "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.6817,
+   "summary": "The NVIDIA Vera Rubin platform delivered leading performance across training, post-training, and agentic inference during its MLPerf benchmarks debut, with results released today. In these results, NVIDIA swept every MLPerf Training v6.1 benchmark. Additionally, in its inaugural MLPerf Endpoints submission, the platform achieved more than 10x generational gains in throughput per watt for agentic AI.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "AI Companies Develop Decision Models to Avoid Hallucinations",
+   "latest": "2026-11-16",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.5,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "AI Companies Develop Decision Models to Avoid Hallucinations",
+     "source": "IEEE Spectrum",
+     "date": "2026-11-16",
+     "extract": "On 15 September, a startup called TypeSafe AI released a new AI model called Jev . The company’s broad, disruptive claims about Jev turned heads: The company claimed that Jev, which it calls a “System One model” is cheaper, faster, and can’t hallucinate. TypeSafe AI’s marketing is an obvious shot across the bow of other AI companies and their large language models (LLMs), which, despite their capabilities in math and coding, are infamous for their cost and tendency to “hallucinate” factually incorrect replies. And the startup has certainly attracted both attention and investment. The company recently raised US $870 million in funding at a valuation of $7.5 billion .",
+     "note": "",
+     "url": "https://spectrum.ieee.org/typesafe-ai-hallucination-decision-models",
+     "kind": "news"
+    }
+   ],
+   "score": 0.6817,
+   "summary": "AI companies are developing decision models to avoid hallucinations, exemplified by the startup TypeSafe AI releasing its new Jev model on 15 September. TypeSafe AI asserts that Jev, designated as a \"System One model,\" operates with greater speed and lower cost while being completely immune to hallucinations. While competing large language models remain notorious for high costs and factual errors despite strong coding and math capabilities, TypeSafe AI has successfully captured significant interest and capital. Specifically, the enterprise recently secured US $870 million in new funding, achieving a total valuation of $7.5 billion.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "PostgreSQL 19 Released",
+   "latest": "2026-11-19",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.4,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "PostgreSQL 19 Released",
+     "source": "Simon Willison's Weblog",
+     "date": "2026-11-19",
+     "extract": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse. This release was definitely worth the wait. My favorite new feature is this one: For applications that send reads to standbys, PostgreSQL 19 adds \"read-your-writes\" consistency with the new WAIT FOR LSN command.",
+     "note": "",
+     "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.6777,
+   "summary": "PostgreSQL 19 has officially been released, arriving two months later than the usual September schedule due to issues addressed by the team during the ongoing AI-reported vulnerability apocalypse. The new software includes a standout feature that provides \"read-your-writes\" consistency for applications directing reads to standbys through the introduction of the WAIT FOR LSN command.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "llm-gemini 0.38",
+   "latest": "2026-11-18",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.4,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "llm-gemini 0.38",
+     "source": "Simon Willison's Weblog",
+     "date": "2026-11-18",
+     "extract": "Release: llm-gemini 0.38 Today Google introduced Gemini 4 Neon . I wrote recently about how confusing the pricing for the Gemini 4 series was - Neon has somehow made this even worse. Previously the Gemini 4 lineup was Hydrogen, Argon, and Carbon - where Argon and Carbon were the same price , and Hydrogen was 3/4 of that price now but will be 1/4 of that price when the other two double an 1st December once their initial discount pricing expires. The Neon announcement pretends that Argon doesn't exist. Here's their new image explaining the model line-up: So the lineup now, from most to least expensive, is Carbon, Neon, Hydrogen.",
+     "note": "",
+     "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.671,
+   "summary": "Google has introduced Gemini 4 Neon, a new model that adds further complexity to the Gemini 4 pricing structure. The current lineup now ranks from most to least expensive as Carbon, Neon, and Hydrogen. This release follows a previous lineup consisting of Hydrogen, Argon, and Carbon, though the Neon announcement omits any mention of Argon. Under the prior pricing scheme, Argon and Carbon cost the same, while Hydrogen was priced at three-quarters of that rate until December 1st, when it is set to drop to one-quarter after initial discount pricing expires as the other two models double.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "The PSF end-of-year fundraiser",
+   "latest": "2026-11-18",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.4,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "The PSF end-of-year fundraiser",
+     "source": "Simon Willison's Weblog",
+     "date": "2026-11-18",
+     "extract": "The PSF end-of-year fundraiser With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community. If your company or your work benefits from Python, please consider donating this year! The PSF looks after the IP behind Python, operates PyPI, sponsors core developer sprints, supports community events (including running PyCon US every year), and employs a small and excellent staff team to keep everything running.",
+     "note": "",
+     "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.671,
+   "summary": "",
+   "summary_src": "fallback-extract"
+  },
+  {
+   "headline": "External sandboxes for coding agents",
+   "latest": "2026-11-17",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.4,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "External sandboxes for coding agents",
+     "source": "Simon Willison's Weblog",
+     "date": "2026-11-17",
+     "extract": "External sandboxes for coding agents I've been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without worrying that a mistake or prompt injection attack might cause them to take damaging actions on a machine. I worked on this project with Prime Radiant , the AI research lab behind Superpowers and other projects . My post on the Prime Radiant blog introduces the external sandbox pattern, where code executed by the agent runs inside a dedicated sandbox while the agent itself lives outside of that sandbox.",
+     "note": "",
+     "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.6643,
+   "summary": "An external sandbox pattern has been introduced to safely run code executed by coding agents. Developed in collaboration with the AI research lab Prime Radiant, the system places the agent outside the sandbox while code runs inside a dedicated environment. This approach prevents local models from taking damaging actions on a machine due to a mistake or a prompt injection attack.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+   "latest": "2026-11-17",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.4,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+     "source": "Simon Willison's Weblog",
+     "date": "2026-11-17",
+     "extract": "GPT‑6.2 Astra and GPT‑6.2 Sol OpenAI: We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work. They're available in the API as gpt-6.2-astra and gpt-6.2-sol . I shipped LLM 0.38 with support for the new models. 6.2 Astra is 80% of the price of 6 Astra - $8/MTok input and $40/MTok output, the same price as Claude Fable 5.2 (which was also 80% of its predecessor). 6 Astra and Fable 5 were both $10/$50. The cached price is an even bigger discount - $0.40/million compared to $1/million for the older model. This is great news for longer running agentic sessions.",
+     "note": "",
+     "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.6643,
+   "summary": "OpenAI has released GPT‑6.2 Astra as a new frontier model for complex tasks and GPT‑6.2 Sol as an efficient option for daily work, both now accessible through the API. LLM version 0.38 has shipped with support for these new additions. GPT‑6.2 Astra costs 80 percent of the price of its predecessor, priced at $8 per million tokens for input and $40 per million tokens for output. This matches the pricing of Claude Fable 5.2, which also cost 80 percent of its predecessor, down from the $10 input and $50 output pricing of 6 Astra and Fable 5. Additionally, the cached price for the new model drops to $0.40 per million tokens compared to $1 per million for the older version.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+   "latest": "2026-11-17",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.4,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+     "source": "Simon Willison's Weblog",
+     "date": "2026-11-17",
+     "extract": "Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide . I've released a complete rewrite of Datasette Lite using service workers, and it's now almost indistinguishable from the real server-side application. You can now do all of the following, using a carefully crafted URL to lite.datasette.io : Load client-side Datasette to browse any SQLite database, JSON file, CSV file or SQL script Select a released version of Datasette to load from PyPI Load a specific commit, tag, or branch name from the Datasette GitHub repository Pick from over 100 versions of SQLite to use with Datasette Install additional Datasette plugins from…",
+     "note": "",
+     "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.6643,
+   "summary": "",
+   "summary_src": "fallback-extract"
+  },
+  {
+   "headline": "How Google Duplex evolved to also call businesses for you in Gemini",
+   "latest": "2026-11-20",
+   "n_sources": 4,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+     "source": "The latest research from Google",
+     "date": "2026-11-20",
+     "extract": "",
+     "note": "",
+     "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+     "kind": "news"
+    },
+    {
+     "title": "Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working",
+     "source": "The Decoder",
+     "date": "2026-11-20",
+     "extract": "Google is bringing \"Computer Use\" to Gemini for Mac, letting the AI operate desktop apps, local files, and websites in an isolated background window with a live preview while users keep working.",
+     "note": "",
+     "url": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/",
+     "kind": "news"
+    },
+    {
+     "title": "Google gives Gemini the ability to use your Mac for you",
+     "source": "AI News & Artificial Intelligence",
+     "date": "2026-11-19",
+     "extract": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+     "note": "",
+     "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+     "kind": "news"
+    },
+    {
+     "title": "Google makes it easier to use Gemini without training AI on your data",
+     "source": "AI",
+     "date": "2026-11-17",
+     "extract": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+     "note": "",
+     "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.6533,
+   "summary": "Google is bringing \"Computer Use\" to Gemini for Mac. This feature allows the artificial intelligence to operate desktop applications, local files, and websites. The operations occur inside an isolated background window that includes a live preview, enabling users to continue working simultaneously.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "The fallout from Nvidia’s Jensen Huang scandal continues",
+   "latest": "2026-11-20",
+   "n_sources": 3,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+     "source": "AI News & Artificial Intelligence",
+     "date": "2026-11-20",
+     "extract": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to",
+     "note": "",
+     "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+     "kind": "news"
+    },
+    {
+     "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+     "source": "Feed: Artificial Intelligence Latest",
+     "date": "2026-11-20",
+     "extract": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”",
+     "note": "",
+     "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+     "kind": "news"
+    },
+    {
+     "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+     "source": "AI",
+     "date": "2026-11-17",
+     "extract": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
+     "note": "",
+     "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.5023,
+   "summary": "Nvidia is managing the aftermath of removing CEO Jensen Huang while simultaneously releasing its latest earnings report this week, which showed healthy growth and assurances of continued success. During this period, the semiconductor firm announced it will halt sales of its H200 chips in China and rejected incoming requests.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Combatting adversarial distillation",
+   "latest": "2026-11-20",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Combatting adversarial distillation",
+     "source": "OpenAI News",
+     "date": "2026-11-20",
+     "extract": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+     "note": "",
+     "url": "https://openai.com/index/combatting-adversarial-distillation",
+     "kind": "news"
+    }
+   ],
+   "score": 0.4883,
+   "summary": "OpenAI has introduced a layered approach called adversarial distillation to protect against capability extraction. This defense mechanism combines model training, safeguards, detection, and enforcement.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Hebbia sees improvements in financial research with GPT-6 Astra",
+   "latest": "2026-11-20",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+     "source": "OpenAI News",
+     "date": "2026-11-20",
+     "extract": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+     "note": "",
+     "url": "https://openai.com/business/customer-stories/hebbia",
+     "kind": "news"
+    }
+   ],
+   "score": 0.4883,
+   "summary": "Hebbia evaluated GPT-6 Astra for financial research and observed enhancements in source coverage, citation relevance, and presentation quality during prerelease testing.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Can AI help scientists identify promising drug candidates?",
+   "latest": "2026-11-20",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Can AI help scientists identify promising drug candidates?",
+     "source": "OpenAI News",
+     "date": "2026-11-20",
+     "extract": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+     "note": "",
+     "url": "https://openai.com/index/introducing-medchembench",
+     "kind": "news"
+    }
+   ],
+   "score": 0.4883,
+   "summary": "MedChemBench has been introduced to evaluate how effectively artificial intelligence models select compounds in early drug discovery, interpret molecular structures, and reason from experimental evidence. This benchmark addresses the question of whether artificial intelligence can assist scientists in identifying promising drug candidates.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+   "latest": "2026-11-19",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+     "source": "OpenAI News",
+     "date": "2026-11-19",
+     "extract": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+     "note": "",
+     "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+     "kind": "news"
+    }
+   ],
+   "score": 0.4817,
+   "summary": "OpenAI has introduced the Performance Factory to maintain the speed of ChatGPT. This infrastructure relies on Codex-powered workflows to automatically detect and resolve performance bottlenecks.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Explore the Codex Security Plugin",
+   "latest": "2026-11-19",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Explore the Codex Security Plugin",
+     "source": "OpenAI News",
+     "date": "2026-11-19",
+     "extract": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+     "note": "",
+     "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+     "kind": "news"
+    }
+   ],
+   "score": 0.4817,
+   "summary": "Viewers can watch a demonstration of the Codex Security Plugin to observe the complete workflow in action. The recording guides users from the initial setup process all the way through to reviewing the generated results.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Deploying Daybreak Red",
+   "latest": "2026-11-19",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Deploying Daybreak Red",
+     "source": "OpenAI News",
+     "date": "2026-11-19",
+     "extract": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+     "note": "",
+     "url": "https://openai.com/business/learn/deploying-daybreak-red",
+     "kind": "news"
+    }
+   ],
+   "score": 0.4817,
+   "summary": "A reference architecture called Daybreak Red has been released for conducting supervised security investigations. The framework includes setup procedures, safety controls, and monitoring capabilities. Users can explore this system to support their security investigation workflows.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "The Silent Consensus",
+   "latest": "2026-11-18",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "The Silent Consensus",
+     "source": "OpenAI News",
+     "date": "2026-11-18",
+     "extract": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+     "note": "",
+     "url": "https://openai.com/index/the-silent-consensus",
+     "kind": "news"
+    }
+   ],
+   "score": 0.475,
+   "summary": "OpenAI Head of Strategic Futures Dean Ball is exploring the societal impacts of advanced artificial intelligence and strategies for humanity to maintain institutional control. His commentary, titled \"The Silent Consensus,\" focuses on how increasingly capable AI systems might transform society.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+   "latest": "2026-11-18",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+     "source": "OpenAI News",
+     "date": "2026-11-18",
+     "extract": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+     "note": "",
+     "url": "https://openai.com/business/customer-stories/sumitomo-life",
+     "kind": "news"
+    }
+   ],
+   "score": 0.475,
+   "summary": "Sumitomo Life utilizes ChatGPT Enterprise for tasks such as researching insurance companies, developing proposals, and writing code for investment analysis. The adoption of the tool across teams was successfully driven by early usage among the company's executives.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Research acceleration: The jagged frontier",
+   "latest": "2026-11-18",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Research acceleration: The jagged frontier",
+     "source": "OpenAI News",
+     "date": "2026-11-18",
+     "extract": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+     "note": "",
+     "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+     "kind": "news"
+    }
+   ],
+   "score": 0.475,
+   "summary": "OpenAI is tracking how coding agents accelerate artificial intelligence research while highlighting that their capabilities remain inconsistent across tasks. The company is evaluating these uneven performance levels to understand what they indicate regarding recursive self-improvement.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Inside the Codex sandbox",
+   "latest": "2026-11-18",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 1.0,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Inside the Codex sandbox",
+     "source": "OpenAI News",
+     "date": "2026-11-18",
+     "extract": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+     "note": "",
+     "url": "https://openai.com/index/inside-the-codex-sandbox",
+     "kind": "news"
+    }
+   ],
+   "score": 0.475,
+   "summary": "Codex allows users to observe how commands are executed on their local machine while enforcing user-controlled filesystem and network limits. This functionality operates across three major operating systems: macOS, Linux, and Windows.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+   "latest": "2026-11-20",
+   "n_sources": 2,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+     "source": "AI News & Artificial Intelligence",
+     "date": "2026-11-20",
+     "extract": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+     "note": "",
+     "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+     "kind": "news"
+    },
+    {
+     "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
+     "source": "Feed: Artificial Intelligence Latest",
+     "date": "2026-11-19",
+     "extract": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger toward data centers could impact its growth.",
+     "note": "",
+     "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.4473,
+   "summary": "Anthropic's seven founders each collected $280 million as part of a record-breaking initial public offering that reached a total of nearly $2 billion for the group. The liquidity event occurred at an upgraded initial public offering price of $83 per share. Through the offering, the company itself secured nearly $105 billion.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Meta’s new Muse Charm device may cost $300",
+   "latest": "2026-11-19",
+   "n_sources": 2,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Meta’s new Muse Charm device may cost $300",
+     "source": "AI News & Artificial Intelligence",
+     "date": "2026-11-19",
+     "extract": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+     "note": "",
+     "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+     "kind": "news"
+    },
+    {
+     "title": "Meta Muse Spark Open is live on Together AI",
+     "source": "Together.ai",
+     "date": "2026-10-15",
+     "extract": "Meta Muse Spark Open, Meta's open-weight model for agentic coding, is live on Together AI with a 1M-token context window on serverless and dedicated infrastructure.",
+     "note": "",
+     "url": "https://www.together.ai/blog/meta-muse-spark-open",
+     "kind": "news"
+    }
+   ],
+   "score": 0.4407,
+   "summary": "Meta's upcoming Muse Charm AI wearable device is expected to carry a price tag of $300, according to recent reporting from The Information. In response to these claims, Meta has not denied the report. Instead, the company stated that it will soon share more details regarding the upcoming AI wearable.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Democratizing Cross-Project Knowledge for Transforming Water Governance and Climate Resilience: an Agentic AI Ecosystem",
+   "latest": "2026-11-19",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.2,
+   "launch": true,
+   "has_extract": true,
+   "is_arxiv": true,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Democratizing Cross-Project Knowledge for Transforming Water Governance and Climate Resilience: an Agentic AI Ecosystem",
+     "source": "arXiv cs.CL",
+     "date": "2026-11-19",
+     "extract": "EU-funded projects produce extensive evidence in the form of deliverables, reports, and case studies. However, this knowledge is typically scattered across projects and document structures, making it difficult to locate relevant, contextual information when making decisions. This paper introduces an Agentic AI Ecosystem that consolidates heterogeneous project documentation into a domain-aware knowledge base and provides adaptive access through an agentic Retrieval-Augmented Generation pipeline. Documents from three EU-funded projects (IMPETUS, NATALIE, and InnWater) are reconstructed into hierarchical section trees and indexed with structured metadata.",
+     "note": "",
+     "url": "http://arxiv.org/abs/2611.26398v1",
+     "kind": "news"
+    }
+   ],
+   "score": 0.4,
+   "summary": "",
+   "summary_src": "fallback-extract"
+  },
+  {
+   "headline": "US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up",
+   "latest": "2026-11-21",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up",
+     "source": "The Decoder",
+     "date": "2026-11-21",
+     "extract": "The Nasdaq 100 has slipped into a bear market after its worst weekly loss since the Covid-19 crisis. Nvidia plunged 14 percent as the SEC reviews its accounting, and Anthropic lost nearly all of its gains a day after its record IPO. AI doubts, scandals, rising interest rates, and political headwinds are hitting overheated valuations all at once.",
+     "note": "",
+     "url": "https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.399,
+   "summary": "US technology stocks experienced their worst weekly loss since the pandemic as growing doubts surrounding artificial intelligence caused the Nasdaq 100 to enter a bear market. During this downturn, Nvidia shares dropped 14 percent amid an SEC review of its accounting practices. Additionally, Anthropic surrendered nearly all of its gains just one day after recording its IPO. Overheated valuations are facing simultaneous pressure from AI scandals, rising interest rates, and political headwinds.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
+   "latest": "2026-11-21",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
+     "source": "The Decoder",
+     "date": "2026-11-21",
+     "extract": "Bytedance and several US universities introduce Axion 1.0, an AI agent that rivals top commercial models from OpenAI and Anthropic on benchmarks after just three training phases. The researchers attribute the gains to carefully curated training data rather than ever more training steps. The model, data, and code are freely available.",
+     "note": "",
+     "url": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.399,
+   "summary": "Bytedance and several US universities have introduced Axion 1.0, an AI agent that rivals top commercial models from OpenAI and Anthropic on benchmarks after completing just three training phases. The researchers responsible for the project attribute these performance gains to carefully curated training data rather than relying on an increasing number of training steps. To support further research, the creators have made the Axion 1.0 model, its data, and its code freely available to the public.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "OpenAI makes it much harder for attackers to extract how its latest AI models think",
+   "latest": "2026-11-20",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "OpenAI makes it much harder for attackers to extract how its latest AI models think",
+     "source": "The Decoder",
+     "date": "2026-11-20",
+     "extract": "OpenAI has significantly strengthened safeguards against extracting internal reasoning from GPT-6.2 Astra and GPT-6.2 Sol. In adaptive red-teaming tests, the success rate for extracting protected reasoning fell from 54 percent to 0.2 percent. The company is also suspending thousands to tens of thousands of accounts each week over coordinated distillation campaigns.",
+     "note": "",
+     "url": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3923,
+   "summary": "OpenAI has substantially increased defenses to prevent malicious actors from stealing the internal thought processes of its GPT-6.2 Astra and GPT-6.2 Sol AI models. During adaptive red-teaming evaluations, the attack success rate for acquiring this protected reasoning plummeted from 54% down to 0.2%. Additionally, the organization is currently banning between thousands and tens of thousands of user accounts on a weekly basis due to organized distillation campaigns.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
+   "latest": "2026-11-20",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
+     "source": "The Decoder",
+     "date": "2026-11-20",
+     "extract": "Signal is blocking screenshots to stop AI agents like Apple's Siri AI, Google's Gemini Intelligence, and Meta's Muse from reading private chats. The app calls it an \"existential threat\" to privacy, but admits its protections remain incomplete, including on macOS. Apple, Google, and Microsoft should follow suit.",
+     "note": "",
+     "url": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3923,
+   "summary": "Signal is blocking screenshots on iOS 27 and Android to prevent AI agents like Apple's Siri AI, Google's Gemini Intelligence, and Meta's Muse from reading private chats. The messaging platform has labeled these tools an existential threat to user privacy while acknowledging that its defensive measures are still incomplete, such as on macOS. Additionally, the company stated that Apple, Google, and Microsoft should follow its lead.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others",
+   "latest": "2026-11-20",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others",
+     "source": "The Decoder",
+     "date": "2026-11-20",
+     "extract": "A Bloomberg News analysis of 10 million job postings suggests AI is compounding China's already weak labor market. Entry-level workers and the creative industry are feeling the shift most, with more than 90% of Chinese micro-dramas now produced using AI. Former central bank adviser Cai Fang warns that a larger AI shock is still ahead.",
+     "note": "",
+     "url": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3923,
+   "summary": "An evaluation by Bloomberg News of 10 million job listings indicates that positions in China vulnerable to artificial intelligence declined 10 percentage points more rapidly than unaffected roles. This technological shift is intensifying an already fragile labor market in China, impacting entry-level personnel and the creative sector most severely. Presently, over 90 percent of Chinese micro-dramas are generated utilizing artificial intelligence. Additionally, former central bank adviser Cai Fang cautions that a more substantial disruption from artificial intelligence remains forthcoming.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+   "latest": "2026-11-20",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+     "source": "AI News & Artificial Intelligence",
+     "date": "2026-11-20",
+     "extract": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+     "note": "",
+     "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3923,
+   "summary": "An artificial intelligence system and a human researcher have both independently claimed solutions to the 167-year-old Riemann hypothesis. Mathematicians are reacting with astonishment to the newly announced AI-driven result and the competing human resolution.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "Apple may be developing its own AI agent that runs your Mac",
+   "latest": "2026-11-20",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "Apple may be developing its own AI agent that runs your Mac",
+     "source": "AI News & Artificial Intelligence",
+     "date": "2026-11-20",
+     "extract": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+     "note": "",
+     "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3923,
+   "summary": "Apple is reportedly working on its own artificial intelligence agent designed to operate a Mac computer. The iPhone manufacturer is seemingly creating these agents to rival existing offerings such as OpenAI Dots, Claude, Instinct, and Meta Muse.",
+   "summary_src": "gemini"
+  },
+  {
+   "headline": "The most misunderstood graph in AI just got a major update",
+   "latest": "2026-11-20",
+   "n_sources": 1,
+   "kind": "news",
+   "authority": 0.6,
+   "launch": false,
+   "has_extract": true,
+   "is_arxiv": false,
+   "pr_fluff": false,
+   "items": [
+    {
+     "title": "The most misunderstood graph in AI just got a major update",
+     "source": "MIT Technology Review",
+     "date": "2026-11-20",
+     "extract": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely…",
+     "note": "",
+     "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+     "kind": "news"
+    }
+   ],
+   "score": 0.3923,
+   "summary": "A new report from the AI evaluation nonprofit METR updates its time horizon plot to show that some artificial intelligence capabilities keep advancing on an exponential trajectory. At the same time, the evaluation indicates that models remain less proficient at tasks requiring judgment than they are at coding.",
+   "summary_src": "gemini"
+  }
+ ]
+}
